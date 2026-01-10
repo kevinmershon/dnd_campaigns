@@ -21,15 +21,18 @@ NPCs who frequent the Dusty Rose. They provide atmosphere, potential side intera
 | Role | Professional Gambler |
 | Location | The Dusty Rose (card tables) |
 | Awakening Potential | None |
+| Family | Son of [[characters/npcs/dusthollow-townsfolk#Doc Mercer\|Doc Mercer]] |
 
 ### Appearance
-- Thin, quick hands
+- Thin, quick hands (inherited from his father)
 - Nervous laugh
 - Fancy waistcoat (worn at the edges)
 - Always shuffling something
 
 ### Personality
 Charming, slightly desperate, not as lucky as his name suggests. His "luck" is programmed—he wins early to hook players, then loses to make them feel good.
+
+His father is [[characters/npcs/dusthollow-townsfolk#Doc Mercer|Doc Mercer]], the town physician. The two don't speak much—Doc wanted his son to follow him into medicine, but Lucky chose the cards. Neither remembers the argument that drove them apart; it resets each morning, leaving only the distance.
 
 ### Key Dialogue
 - "Care to try your luck? I'm feeling generous today."

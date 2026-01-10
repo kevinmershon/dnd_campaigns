@@ -81,6 +81,7 @@ He's been running the same loop for decades. Same phrases, same gestures, same m
 | Role | Physician |
 | Location | Doc Mercer's Practice |
 | Awakening Potential | Low (notices things, doesn't question) |
+| Family | Father of [[characters/npcs/saloon-regulars#Lucky Mercer\|Lucky Mercer]] |
 
 ### Appearance
 - Tired eyes, steady hands
@@ -90,6 +91,8 @@ He's been running the same loop for decades. Same phrases, same gestures, same m
 
 ### Personality
 Brusque, efficient, doesn't ask questions. He's noticed that injuries heal overnight and patients recover impossibly fast. He's chosen not to think about it.
+
+His son [[characters/npcs/saloon-regulars#Lucky Mercer|Lucky]] is a source of quiet disappointment—the boy had steady hands and a sharp mind, could've been a fine surgeon. Instead he wastes his days at the card tables. Doc doesn't talk about it.
 
 ### Key Dialogue
 - "Unless you're bleeding, you'll have to wait."

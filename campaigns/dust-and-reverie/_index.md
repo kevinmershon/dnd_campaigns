@@ -145,3 +145,23 @@ Attacks against Patrons automatically miss or deal no damage. The Woven rational
 - [[encounters/loom-frame-guardian]] - Optional combat
 - [[encounters/glitch-events]] - Atmospheric glitch tables
 - [[encounters/social-encounters]] - Key NPC dialogues
+
+### Quests
+- [[quests/quest-index]] - Quick reference for all quests
+- [[quests/the-bounty-hunt]] - Track Pike with Corwin (Easy)
+- [[quests/the-gold-escort]] - Guard Harken's mysterious shipment (Medium)
+- [[quests/kobold-hunting]] - Hunt or ally with the Sand Walkers (Medium)
+- [[quests/pearls-missing-sister]] - Search for family that doesn't exist (Medium)
+- [[quests/the-widows-vigil]] - Find a husband who was erased (Medium)
+- [[quests/doc-mercers-cases]] - Investigate impossible medical records (Hard)
+- [[quests/father-aldous-demons]] - Decode spiral prophecies (Medium)
+- [[quests/the-card-sharps-gambit]] - Help cheat a Patron at poker (Medium)
+- [[quests/the-calico-traitor]] - Extract Della from the gang (Hard)
+- [[quests/following-mirela]] - Main plot: follow her awakening (Varies)
+
+### Items
+- [[items/item-index]] - Quick reference for all items
+- [[items/the-spiral-wheel]] - Key awakening artifact
+- [[items/whispering-totems]] - Sand Walker carvings
+- [[items/the-gilded-core]] - Consortium technology
+- [[items/mirelas-sketchbook]] - Evidence of her awakening
