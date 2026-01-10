@@ -99,6 +99,10 @@ reactions:
     desc: When a creature within 5 feet is attacked, Corwin can impose disadvantage on the attack roll.
 ```
 
+## Conversation Guide
+
+> See [[offshoots/npc-conversations#Corwin Dray]] for detailed dialogue options and DC checks for unlocking backstory and lore.
+
 ## Roleplaying Notes
 
 **Voice**: Steady, warm, with a rural drawl. Never raises his voice unless in battle.

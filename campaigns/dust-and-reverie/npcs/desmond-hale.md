@@ -104,6 +104,10 @@ actions:
     desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) bludgeoning damage."
 ```
 
+## Conversation Guide
+
+> See [[offshoots/npc-conversations#Desmond Hale]] for detailed dialogue options and DC checks for unlocking backstory and lore.
+
 ## Roleplaying Notes
 
 **Voice**: Precise, academic, occasionally lost in thought. Softens when speaking about ideas he finds fascinating.

@@ -116,6 +116,10 @@ actions:
     desc: Mirela takes an additional action.
 ```
 
+## Conversation Guide
+
+> See [[offshoots/npc-conversations#Mirela Holten]] for detailed dialogue options and DC checks for unlocking backstory and lore.
+
 ## Roleplaying Notes
 
 **Voice**: Soft but clear. Becomes more intense as she awakens.

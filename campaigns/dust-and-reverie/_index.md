@@ -126,3 +126,7 @@ Attacks against Patrons automatically miss or deal no damage. The Woven rational
 - [[sessions/session-01-arrival]]
 - [[sessions/session-02-the-stray]]
 - [[sessions/session-03-the-spiral]]
+
+### Offshoots & Distractions
+- [[offshoots/dusty-rose-activities]] - Cards, drinks, piano, working girls
+- [[offshoots/npc-conversations]] - Backstory unlocks with Charisma checks

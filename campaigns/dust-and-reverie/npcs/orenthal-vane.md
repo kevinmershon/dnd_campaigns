@@ -105,6 +105,10 @@ actions:
     desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) bludgeoning damage."
 ```
 
+## Conversation Guide
+
+> See [[offshoots/npc-conversations#Orenthal Vane]] for detailed dialogue options and DC checks for unlocking backstory and lore.
+
 ## Roleplaying Notes
 
 **Voice**: Measured, thoughtful, with occasional dry humor. Like a professor who's seen everything.

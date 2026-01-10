@@ -44,8 +44,21 @@ Players likely head to the saloon. Describe:
 - [[npcs/sylene]] holding court, greeting newcomers
 - Card games, drinking, ambient frontier atmosphere
 
+> See [[offshoots/dusty-rose-activities]] for detailed saloon activities: card games, drinks, the piano player, working girls, and ambient NPCs.
+
 **Sylene's Welcome**:
 > A striking woman in a crimson dress approaches. Her smile is warm, but her eyes evaluate you like a merchant assessing goods. "New faces in Dusthollow. That's always interesting. I'm Sylene. This is my establishment. First drink's on the house—I find it builds goodwill."
+
+### Sandbox Time (Optional)
+
+Let players explore before the plot kicks in. Options:
+- **Play cards** with Lucky Mercer and Hollis Tate (brewing conflict)
+- **Order drinks** from Silas (watch his identical pours)
+- **Listen to Emmett** at the piano (try to request a song)
+- **Chat with Ruby, Pearl, or Delilah** (the working girls)
+- **Talk to the regulars** (Old Jem's rambling stories, the Garrett brothers' arguments)
+
+> See [[offshoots/npc-conversations]] for detailed dialogue options and DC checks for deeper conversations with Mirela, Sylene, Corwin, and others.
 
 ### First Glitch (Subtle)
 As players settle in:

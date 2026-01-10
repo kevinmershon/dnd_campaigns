@@ -115,6 +115,10 @@ Gains warlock abilities as she learns to manipulate the Reach's underlying magic
 - **Mask of Many Faces**: Can alter her appearance at will
 - **Patron**: The Reach itself (reflavored Great Old One—alien intelligence)
 
+## Conversation Guide
+
+> See [[offshoots/npc-conversations#Sylene Ashford]] for detailed dialogue options and DC checks for unlocking backstory and lore.
+
 ## Roleplaying Notes
 
 **Voice**: Low, measured, with a refined accent. Every word chosen carefully.

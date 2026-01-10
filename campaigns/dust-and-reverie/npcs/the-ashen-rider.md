@@ -109,6 +109,10 @@ reactions:
 - **Riposte**: Attack when missed in melee
 - **Disarming Attack**: Target drops held item on failed DC 14 Str save
 
+## Conversation Guide
+
+> See [[offshoots/npc-conversations#The Ashen Rider (Lord Aldric Venn)]] for detailed dialogue options and DC checks for unlocking backstory and lore.
+
 ## Roleplaying Notes
 
 **Voice**: Low, measured, casual menace. Speaks like everything is slightly boring to him.

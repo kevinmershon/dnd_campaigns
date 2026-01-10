@@ -95,6 +95,10 @@ actions:
     desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage."
 ```
 
+## Conversation Guide
+
+> See [[offshoots/npc-conversations#Joss Harlow]] for detailed dialogue options and DC checks for unlocking backstory and lore.
+
 ## Roleplaying Notes
 
 **Voice (Normal)**: Growling, threatening. Short sentences. Enjoys intimidation.
