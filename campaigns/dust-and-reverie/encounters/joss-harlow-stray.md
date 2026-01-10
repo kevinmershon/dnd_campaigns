@@ -15,7 +15,7 @@ location: "[[locations/dusthollow]]"
 | Attribute | Value |
 |-----------|-------|
 | Type | Roleplay / Horror |
-| Session | [[sessions/session-02-the-stray]] |
+| Session | [[sessions/session-02-the-stray\|Session 2]] |
 | Difficulty | N/A (non-combat) |
 | Goal | Show consequences of awakening, foreshadow |
 | Location | [[locations/dusthollow\|The Dusty Rose]] or anywhere in town |
@@ -97,7 +97,7 @@ This encounter triggers:
 
 **Result**: [[characters/npcs/joss-harlow|Joss]] grows more agitated as the day progresses. By evening:
 
-> He's in the corner, muttering to himself, drawing spirals on any surface he can find. [[characters/npcs/sylene]] watches with an expression of recognition—and fear.
+> He's in the corner, muttering to himself, drawing spirals on any surface he can find. [[characters/npcs/sylene\|Sylene]] watches with an expression of recognition—and fear.
 >
 > "He's seen too much," she murmurs. "They'll come for him tonight."
 

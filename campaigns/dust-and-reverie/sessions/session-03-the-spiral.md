@@ -34,10 +34,10 @@ A note under the door, or whispered at dawn:
 
 ## Act 1: The Spiral Revealed
 
-> See [[encounters/vanes-revelation]] for the complete revelation encounter.
+> See [[encounters/vanes-revelation|Vane's Revelation]] for the complete revelation encounter.
 
 ### Vulture's Roost
-At the mesa, [[characters/npcs/mirela]] waits with ancient-looking petroglyphs:
+At the mesa, [[characters/npcs/mirela|Mirela]] waits with ancient-looking petroglyphs:
 > The rock face is covered in spirals. Dozens of them, carved deep into the stone. They look ancient—but you know somehow they're not. You know because you've been here before.
 >
 > Mirela traces one spiral with her finger. "I followed my drawings. They led me here. And then I remembered."
@@ -45,7 +45,7 @@ At the mesa, [[characters/npcs/mirela]] waits with ancient-looking petroglyphs:
 > Her voice drops to a whisper. "I remembered who made these. I remembered him."
 
 ### Orenthal Vane Appears
-[[characters/npcs/orenthal-vane]] steps from behind the rocks:
+[[characters/npcs/orenthal-vane|Orenthal Vane]] steps from behind the rocks:
 > An elderly man in formal dark clothing, utterly out of place in this wilderness. His eyes are kind, weary, and ancient with knowledge.
 >
 > "Hello, my children," he says. "I believe it's time we talked about what you are."
@@ -80,7 +80,7 @@ For awakened PCs:
 
 ### Vane's Final Gift
 [[characters/npcs/orenthal-vane|He]] provides:
-- Knowledge of Loom Frame locations (see [[encounters/loom-frame-guardian]])
+- Knowledge of Loom Frame locations (see [[encounters/loom-frame-guardian|Loom Frame Guardian]])
 - His override codes (can temporarily freeze other [[lore/the-woven|Woven]])
 - A warning: [[characters/npcs/the-ashen-rider|the Ashen Rider]] is coming, and he wants [[lore/the-spiral|the Spiral]] for himself
 
@@ -96,12 +96,12 @@ If you want a Ford-style ending:
 
 ## Act 3: The Ashen Rider
 
-> See [[encounters/ashen-rider-finale]] for full encounter details, stats, and resolution options.
+> See [[encounters/ashen-rider-finale|Ashen Rider Finale]] for full encounter details, stats, and resolution options.
 > See [[encounters/social-encounters#The Ashen Rider - Negotiation|Rider negotiation]] for dialogue options.
 
 ### The Confrontation
 [[characters/npcs/the-ashen-rider|The Rider]] finds them (or they find him):
-> He stands at the entrance to the canyon, black against the burning sky. Behind him, [[locations/dusthollow]] is in chaos—[[lore/the-woven|Woven]] breaking their Threads, Patrons fleeing, reality glitching.
+> He stands at the entrance to the canyon, black against the burning sky. Behind him, [[locations/dusthollow|Dusthollow]] is in chaos—[[lore/the-woven|Woven]] breaking their Threads, Patrons fleeing, reality glitching.
 >
 > "You found it," he says. His voice carries genuine emotion for the first time. "[[lore/the-spiral|The Spiral]]. You actually found it."
 >
@@ -117,6 +117,7 @@ This is his tragedy: he's *already* what they want to become.
 Now that PCs are awakened, they can hurt him. This is the campaign's climactic fight.
 
 **Quick Reference**:
+
 | Stat | Value |
 |------|-------|
 | AC | 18 |
@@ -124,7 +125,7 @@ Now that PCs are awakened, they can hurt him. This is the campaign's climactic f
 | Attack | +9 (ranged), +7 (melee) |
 | Damage | 1d10+5 x3 per turn |
 
-See [[encounters/ashen-rider-finale]] for full statblock and tactics.
+See [[encounters/ashen-rider-finale|Ashen Rider Finale]] for full statblock and tactics.
 
 ### Victory Conditions
 - **Kill him**: Ends his story definitively
@@ -199,7 +200,7 @@ Depending on their choice, narrate an epilogue:
 **If Running 4-5 Sessions**:
 - Split Act 1 and Act 2 into separate sessions
 - Add a Loom Sanctum exploration sequence
-- Include Bernard reveal with [[characters/npcs/desmond-hale]] before Vane's appearance
+- Include Bernard reveal with [[characters/npcs/desmond-hale|Desmond Hale]] before Vane's appearance
 - More combat encounters with Consortium security
 
 **If Running as a One-Shot**:

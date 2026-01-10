@@ -18,7 +18,7 @@ act: "These Violent Delights"
 4. Complete a satisfying "Western" adventure hook
 5. End with first significant déjà vu moment
 
-> See [[offshoots/dusthollow-arrival]] for detailed exploration of the town before reaching the Dusty Rose.
+> See [[offshoots/dusthollow-arrival|Dusthollow Arrival]] for detailed exploration of the town before reaching the Dusty Rose.
 
 ## Opening Scene: The Ride In
 
@@ -43,10 +43,10 @@ Allow each player to describe their character and provide a reason for coming to
 ### The Dusty Rose
 Players likely head to the saloon. Describe:
 - Piano playing (same tune as every day, forever)
-- [[characters/npcs/sylene]] holding court, greeting newcomers
+- [[characters/npcs/sylene|Sylene]] holding court, greeting newcomers
 - Card games, drinking, ambient frontier atmosphere
 
-> See [[offshoots/dusty-rose-activities]] for detailed saloon activities: card games, drinks, the piano player, working girls, and ambient NPCs.
+> See [[offshoots/dusty-rose-activities|Dusty Rose Activities]] for detailed saloon activities: card games, drinks, the piano player, working girls, and ambient NPCs.
 
 **Sylene's Welcome**:
 > A striking woman in a crimson dress approaches. Her smile is warm, but her eyes evaluate you like a merchant assessing goods. "New faces in Dusthollow. That's always interesting. I'm Sylene. This is my establishment. First drink's on the house—I find it builds goodwill."
@@ -54,13 +54,13 @@ Players likely head to the saloon. Describe:
 ### Sandbox Time (Optional)
 
 Let players explore before the plot kicks in. Options:
-- **Play cards** with Lucky Mercer and Hollis Tate (brewing conflict)
-- **Order drinks** from Silas (watch his identical pours)
-- **Listen to Emmett** at the piano (try to request a song)
-- **Chat with Ruby, Pearl, or Delilah** (the working girls)
-- **Talk to the regulars** (Old Jem's rambling stories, the Garrett brothers' arguments)
+- **Play cards** with [[characters/npcs/saloon-regulars#Lucky Mercer|Lucky Mercer]] and [[characters/npcs/saloon-regulars#Hollis Tate|Hollis Tate]] (brewing conflict)
+- **Order drinks** from [[characters/npcs/dusty-rose-staff#Silas|Silas]] (watch his identical pours)
+- **Listen to [[characters/npcs/dusty-rose-staff#Emmett|Emmett]]** at the piano (try to request a song)
+- **Chat with [[characters/npcs/dusty-rose-staff#Ruby|Ruby]], [[characters/npcs/dusty-rose-staff#Pearl|Pearl]], or [[characters/npcs/dusty-rose-staff#Delilah|Delilah]]** (the working girls)
+- **Talk to the regulars** ([[characters/npcs/saloon-regulars#Old Jem|Old Jem's]] rambling stories, [[characters/npcs/saloon-regulars#The Garrett Brothers|the Garrett brothers']] arguments)
 
-> See [[offshoots/npc-conversations]] for detailed dialogue options and DC checks for deeper conversations with Mirela, Sylene, Corwin, and others.
+> See [[offshoots/npc-conversations|NPC Conversations]] for detailed dialogue options and DC checks for deeper conversations with Mirela, Sylene, Corwin, and others.
 
 ### First Glitch (Subtle)
 
@@ -72,7 +72,7 @@ As players settle in:
 No one else notices. DC 15 Perception to catch it happening. (+1 Spiral Point)
 
 ### Meeting Mirela
-[[characters/npcs/mirela]] enters the saloon:
+[[characters/npcs/mirela|Mirela]] enters the saloon:
 > The doors swing open and a young woman enters—golden-brown hair in a braid, blue eyes that seem to look through things rather than at them. She moves with purpose toward the bar, ordering supplies.
 >
 > For just a moment, she glances at you. Her brow furrows slightly, as if trying to place a half-forgotten face.
@@ -80,14 +80,14 @@ No one else notices. DC 15 Perception to catch it happening. (+1 Spiral Point)
 If PCs approach, she's friendly but distracted. She mentions trouble with rustlers at [[locations/dusthollow-details#Mirela's Ranch|the ranch]].
 
 ### Corwin Arrives
-[[characters/npcs/corwin]] follows shortly:
+[[characters/npcs/corwin|Corwin]] follows shortly:
 > A lean man in a black duster enters, scanning the room with practiced ease. His hand rests casually near his holstered sparkpistol. He spots the young woman and relaxes visibly, moving to stand near her.
 
 ## Act 2: The Hook
 
 ### The Calico Boys
 
-> See [[encounters/calico-boys-showdown]] for full encounter details, stats, and outcomes.
+> See [[encounters/calico-boys-showdown|Calico Boys Showdown]] for full encounter details, stats, and outcomes.
 
 A commotion outside—the **Calico Boys** (4 bandits) are threatening [[characters/npcs/dusthollow-townsfolk#Harken|Harken's General Store]].
 
@@ -97,20 +97,21 @@ A commotion outside—the **Calico Boys** (4 bandits) are threatening [[characte
 This is a classic Western setup—do the PCs intervene?
 
 **Quick Reference**:
+
 | Creature | AC | HP | Attack | Damage |
 |----------|----|----|--------|--------|
 | Bandit (x4) | 12 | 11 | +3 | 1d10+1 (sparkpistol) |
 
-[[characters/npcs/corwin]] joins if PCs engage. [[characters/npcs/mirela]] takes cover but will help wounded after.
+[[characters/npcs/corwin|Corwin]] joins if PCs engage. [[characters/npcs/mirela|Mirela]] takes cover but will help wounded after.
 
-**Glitch Trigger**: See [[encounters/glitch-events]] for the combat flashback (+1 Spiral Point) or time freeze (+2 if observing).
+**Glitch Trigger**: See [[encounters/glitch-events|Glitch Events]] for the combat flashback (+1 Spiral Point) or time freeze (+2 if observing).
 
 ## Act 3: Aftermath
 
 ### Gratitude
-- Harken offers supplies at discount
+- [[characters/npcs/dusthollow-townsfolk#Harken|Harken]] offers supplies at discount
 - Townsfolk treat PCs as heroes
-- Sylene offers free room and board for the night
+- [[characters/npcs/sylene|Sylene]] offers free room and board for the night
 - Sheriff's position is mentioned as available
 
 ### Evening at the Dusty Rose
@@ -121,9 +122,9 @@ Social time. Key beats:
 
 **Mirela's Thanks**:
 If PCs helped, she's grateful but still distracted:
-> "I keep having this dream," she admits, staring into her drink. "That I've lived this day before. Hundreds of times. Isn't that strange?"
+> "Do you ever get the feeling," she says quietly, staring into her drink, "that you've forgotten something important? Something you should remember, but it's just... gone?" She shakes her head. "Never mind. Must be the dust getting to me."
 
-**Third Glitch (Major)** (see [[encounters/glitch-events]]):
+**Third Glitch (Major)** (see [[encounters/glitch-events|Glitch Events]]):
 The clock tower strikes 9 PM:
 > The clock tower chimes—once, twice... and then stops. The whole town seems to hold its breath. For three heartbeats, nothing moves. Not the wind. Not the people. Even the firelight freezes.
 >
@@ -153,8 +154,8 @@ As PCs prepare to sleep:
 **Target**: PCs should have 3-5 Spiral Points (approaching Stage 1).
 
 ### Foreshadowing Planted
-- Sylene's knowing comment
-- Mirela's dream
+- [[characters/npcs/sylene|Sylene's]] knowing comment
+- [[characters/npcs/mirela|Mirela's]] unease
 - The frozen moment
 - PCs can't remember their journey
 

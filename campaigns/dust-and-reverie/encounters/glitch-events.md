@@ -147,7 +147,7 @@ Each NPC has characteristic glitches. Perceptive PCs may notice:
 **If Players Confront NPCs**: Most NPCs rationalize or forget:
 > "What? No, I just said good morning. Same as always. You feeling okay, friend?"
 
-Some NPCs (especially [[characters/npcs/sylene]], [[characters/npcs/mirela]], [[characters/npcs/dusty-rose-staff#Pearl|Pearl]]) may react differently—with recognition, or fear.
+Some NPCs (especially [[characters/npcs/sylene\|Sylene]], [[characters/npcs/mirela\|Mirela]], [[characters/npcs/dusty-rose-staff#Pearl|Pearl]]) may react differently—with recognition, or fear.
 
 ### Stacking Glitches
 
@@ -157,7 +157,7 @@ The more PCs notice, the more they see. Once awakened to patterns, they can't un
 
 ## Spiral Point Thresholds
 
-Reference [[lore/the-spiral]] for full mechanics.
+Reference [[lore/the-spiral\|the Spiral]] for full mechanics.
 
 | Stage | Points | Effect |
 |-------|--------|--------|

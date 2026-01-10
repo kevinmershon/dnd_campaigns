@@ -45,7 +45,7 @@ Use these tables when players engage key NPCs in conversation. Higher DCs reveal
 
 | Topic | What She Says |
 |-------|---------------|
-| Her memories | "I remember dying." *Her voice is barely a whisper.* "I remember bleeding out in the street. I remember the cold. And then I woke up and it was morning and nothing was wrong. How is that possible?" |
+| Her memories | "Sometimes I wake up and my hands are shaking." *Her voice is barely a whisper.* "Like they remember something my mind doesn't. And there's this... coldness. In my chest. Like an old wound that isn't there." *She looks at her unmarked skin.* "How can you miss something you never had?" |
 | The truth | "I don't think I'm... I don't think any of this is real. I think something terrible has been done to us. To all of us. And I don't know what to do about it." |
 | The spiral | "The maze—the spiral—it means something. It's a way out, or a way in. I can almost see it, like a picture behind fog." |
 

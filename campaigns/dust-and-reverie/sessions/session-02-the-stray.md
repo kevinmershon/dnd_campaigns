@@ -15,7 +15,7 @@ act: "The Stray"
 1. Introduce the Ashen Rider as a major threat
 2. Escalate glitches to undeniable levels
 3. Have at least one PC experience death and reset
-4. [[characters/npcs/mirela]] or [[characters/npcs/sylene]] reveals partial truth
+4. [[characters/npcs/mirela|Mirela]] or [[characters/npcs/sylene|Sylene]] reveals partial truth
 5. PCs reach Stage 1-2 on the Spiral
 
 ## Opening: The Same Morning
@@ -50,7 +50,7 @@ Midday, [[characters/npcs/the-ashen-rider|the Ashen Rider]] appears:
 > He stops in front of the Dusty Rose, dismounts, and walks inside. The piano stutters, then stops entirely.
 
 ### The Rider's Inquiry
-He approaches [[characters/npcs/sylene]]:
+He approaches [[characters/npcs/sylene|Sylene]]:
 > "I'm looking for something," he says, his voice like gravel. "A pattern. A shape. Some of your... guests might have seen it." His eyes sweep the room, lingering on the PCs. "A spiral. Ring any bells?"
 
 Sylene deflects. The Rider doesn't push—yet.
@@ -88,11 +88,11 @@ Sylene exhales slowly. "That one's been coming around for years. Never causes tr
 
 ## Act 2: Glitches Intensify
 
-> See [[encounters/glitch-events]] for random glitch tables.
+> See [[encounters/glitch-events|Glitch Events]] for random glitch tables.
 
 ### The Stray NPC
 
-> See [[encounters/joss-harlow-stray]] for full encounter details, including Shepherd arrival and resolution options.
+> See [[encounters/joss-harlow-stray|Joss Harlow Stray]] for full encounter details, including Shepherd arrival and resolution options.
 
 [[characters/npcs/joss-harlow|Joss Harlow]] (the Calico Boys leader from [[sessions/session-01-arrival|Session 1]]) breaks programming:
 
@@ -105,7 +105,7 @@ Sylene exhales slowly. "That one's been coming around for years. Never causes tr
 This is a "stray"—a [[lore/the-woven|Woven]] whose glitch is too severe to suppress. Shepherds will come for him tonight.
 
 ### Mirela's Confession
-If PCs seek out [[characters/npcs/mirela]]:
+If PCs seek out [[characters/npcs/mirela|Mirela]]:
 
 > She's at the ranch, but not working. She's sitting on the porch, staring at a piece of paper covered in spiral drawings.
 >
@@ -117,26 +117,27 @@ If PCs seek out [[characters/npcs/mirela]]:
 
 > See [[encounters/social-encounters#Sylene - The Interview|Sylene social encounter]] for full dialogue.
 
-If PCs investigate [[characters/npcs/sylene]]'s establishment:
+If PCs investigate [[characters/npcs/sylene|Sylene]]'s establishment:
 **DC 16 Investigation** finds a hidden basement with:
 - Notes written in the same handwriting, dated over "years"
 - Observations about repeated events
 - A partially decoded understanding of Patron immunity
 - The word "WOVEN" circled, underlined, with "???"
 
-[[characters/npcs/sylene]] confronts them if caught—or invites them in if she trusts them.
+[[characters/npcs/sylene|Sylene]] confronts them if caught—or invites them in if she trusts them.
 
 ## Act 3: Death and Reset
 
 ### The Ambush
 
-> See [[encounters/the-ambush]] for full encounter details, stats, and the reset experience.
+> See [[encounters/the-ambush|The Ambush]] for full encounter details, stats, and the reset experience.
 
 [[characters/npcs/the-ashen-rider|The Ashen Rider]] orchestrates a confrontation. He's found a clue (perhaps from [[characters/npcs/joss-harlow|the stray Joss]]) and believes one of the PCs knows about [[lore/the-spiral|the Spiral]].
 
 **The Setup**: Calico Boys survivors + [[characters/npcs/the-ashen-rider|the Rider]] trap PCs in an isolated location ([[locations/dusthollow-details#Brennan's Livery|the livery]], [[locations/dusthollow-details#Silas Canyon|the canyon]], [[locations/dusthollow-details#Mirela's Ranch|the ranch]]).
 
 **Quick Reference**:
+
 | Creature | AC | HP | Attack | Damage |
 |----------|----|----|--------|--------|
 | Bandit (x6) | 12 | 11 | +3 | 1d10+1 (sparkpistol) |

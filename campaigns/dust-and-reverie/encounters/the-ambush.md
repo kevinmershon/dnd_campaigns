@@ -15,7 +15,7 @@ location: "[[locations/dusthollow]]"
 | Attribute | Value |
 |-----------|-------|
 | Type | Combat (intentionally deadly) |
-| Session | [[sessions/session-02-the-stray]] |
+| Session | [[sessions/session-02-the-stray|Session 2]] |
 | Difficulty | Deadly (intentionally) |
 | Goal | Force at least one PC death to trigger reset revelation |
 | Location | [[locations/dusthollow-details#Brennan's Livery\|The Livery]], [[locations/dusthollow-details#Silas Canyon\|Silas Canyon]], or [[locations/dusthollow-details#Mirela's Ranch\|The Ranch]] |
@@ -29,9 +29,9 @@ location: "[[locations/dusthollow]]"
 ### Luring the Trap
 
 Choose one:
-- A false message from [[characters/npcs/mirela]] asking for help at [[locations/dusthollow-details#Mirela's Ranch|the ranch]]
+- A false message from [[characters/npcs/mirela|Mirela]] asking for help at [[locations/dusthollow-details#Mirela's Ranch|the ranch]]
 - [[characters/npcs/joss-harlow|Joss]] leads them to "something he found" in [[locations/dusthollow-details#Silas Canyon|Silas Canyon]]
-- A bandit threatens [[characters/npcs/corwin]] at [[locations/dusthollow-details#Brennan's Livery|the livery]]
+- A bandit threatens [[characters/npcs/corwin|Corwin]] at [[locations/dusthollow-details#Brennan's Livery|the livery]]
 
 ### Read-Aloud (Canyon Version)
 
@@ -145,7 +145,7 @@ If [[characters/npcs/joss-harlow|Joss]] was involved in the ambush:
 
 If he wasn't present:
 - He's found elsewhere, already breaking down
-- See [[encounters/joss-harlow-stray]]
+- See [[encounters/joss-harlow-stray|Joss Harlow Stray]]
 
 ---
 
@@ -191,4 +191,4 @@ Some players may be frustrated by the "unwinnable" fight. Validate their feeling
 - "What do you do with that knowledge?"
 
 ### Connection to Session 3
-Once they know death resets them, PCs should start asking questions that lead to [[characters/npcs/orenthal-vane]] and the truth.
+Once they know death resets them, PCs should start asking questions that lead to [[characters/npcs/orenthal-vane|Vane]] and the truth.

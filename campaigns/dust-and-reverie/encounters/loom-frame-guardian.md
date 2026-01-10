@@ -15,7 +15,7 @@ location: "[[locations/loom-sanctum]]"
 | Attribute | Value |
 |-----------|-------|
 | Type | Combat (optional encounter) |
-| Session | [[sessions/session-03-the-spiral]] (if exploring) |
+| Session | [[sessions/session-03-the-spiral|Session 3]] (if exploring) |
 | Difficulty | Medium |
 | Goal | Protect access to [[locations/loom-sanctum\|Loom Frame]] installations |
 | Location | Any [[locations/loom-sanctum\|Loom Frame]] location |

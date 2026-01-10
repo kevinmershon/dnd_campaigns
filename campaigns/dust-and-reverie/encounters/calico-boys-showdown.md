@@ -3,7 +3,7 @@ type: encounter
 tags: [encounter, combat, session-1]
 status: active
 difficulty: easy
-location: "[[locations/dusthollow]]"
+location: "[[locations/dusthollow|Dusthollow]]"
 ---
 
 # The Calico Boys Showdown
@@ -15,10 +15,10 @@ location: "[[locations/dusthollow]]"
 | Attribute | Value |
 |-----------|-------|
 | Type | Combat (optional intervention) |
-| Session | [[sessions/session-01-arrival]] |
+| Session | [[sessions/session-01-arrival|Session 1]] |
 | Difficulty | Easy (for Level 1 party) |
 | Goal | Establish PCs as capable heroes |
-| Location | [[locations/dusthollow]] - Main Street, outside [[characters/npcs/dusthollow-townsfolk#Harken\|Harken's General Store]] |
+| Location | [[locations/dusthollow|Dusthollow]] - Main Street, outside [[characters/npcs/dusthollow-townsfolk#Harken\|Harken's General Store]] |
 
 ---
 
@@ -82,8 +82,8 @@ Joss uses the **Bandit Captain** statblock but with sparkarms. He hangs back ini
 - [[characters/npcs/dusthollow-townsfolk#Harken|Harken]] cowering inside
 
 **Allies**:
-- [[characters/npcs/corwin]] joins if PCs engage (arrives Round 2)
-- [[characters/npcs/mirela]] takes cover but will help wounded after
+- [[characters/npcs/corwin|Corwin]] joins if PCs engage (arrives Round 2)
+- [[characters/npcs/mirela|Mirela]] takes cover but will help wounded after
 
 **Tactics**:
 - Spread out, take cover behind barrels and posts
@@ -101,17 +101,17 @@ If a PC takes damage:
 
 Maybe they're cautious. Maybe they want to see how things play out. The glitch still happens.
 
-> You watch from the saloon doorway as the confrontation unfolds. [[characters/npcs/corwin]] steps out, hand on his pistol. Words are exchanged. Then guns clear leather.
+> You watch from the saloon doorway as the confrontation unfolds. [[characters/npcs/corwin|Corwin]] steps out, hand on his pistol. Words are exchanged. Then guns clear leather.
 >
-> The fight is brief and brutal. [[characters/npcs/corwin|Corwin]] drops two of them before taking a bullet to the shoulder. One of the outlaws grabs [[characters/npcs/mirela]]—
+> The fight is brief and brutal. [[characters/npcs/corwin|Corwin]] drops two of them before taking a bullet to the shoulder. One of the outlaws grabs [[characters/npcs/mirela|Mirela]]—
 >
 > And then everything *stops*.
 >
 > Not slows. *Stops.* The dust hangs frozen in the air. The gunsmoke becomes a still sculpture. [[characters/npcs/mirela|Mirela's]] scream cuts off mid-note. For three heartbeats, the world is a painting.
 >
-> Then reality shudders back into motion. The outlaw releases [[characters/npcs/mirela]], clutching his head like a man with a sudden migraine. "What—what was I—" He stumbles, confused. His companions grab him and flee. No one else seems to have noticed the freeze.
+> Then reality shudders back into motion. The outlaw releases [[characters/npcs/mirela|Mirela]], clutching his head like a man with a sudden migraine. "What—what was I—" He stumbles, confused. His companions grab him and flee. No one else seems to have noticed the freeze.
 >
-> [[characters/npcs/corwin]], bleeding, holsters his weapon. "That was... strange. Felt like I blinked and lost a second."
+> [[characters/npcs/corwin|Corwin]], bleeding, holsters his weapon. "That was... strange. Felt like I blinked and lost a second."
 
 **Spiral Points**: +2 for witnessing a major glitch
 
@@ -136,22 +136,22 @@ Roll d4 if desired:
 
 - [[characters/npcs/dusthollow-townsfolk#Harken|Harken]] offers supplies at discount (20% off)
 - Townsfolk treat PCs warmly
-- [[characters/npcs/sylene]] offers free room and board for the night
+- [[characters/npcs/sylene|Sylene]] offers free room and board for the night
 - The vacant sheriff position is mentioned
-- [[characters/npcs/mirela]] thanks them personally
+- [[characters/npcs/mirela|Mirela]] thanks them personally
 
 ### If PCs Didn't Act
 
-- [[characters/npcs/corwin]] is seen as the hero
+- [[characters/npcs/corwin|Corwin]] is seen as the hero
 - Some townsfolk give PCs cool looks
-- [[characters/npcs/sylene]] notes their restraint with interest: "You held back. Watched. Most folks rush in without thinking. You're different."
+- [[characters/npcs/sylene|Sylene]] notes their restraint with interest: "You held back. Watched. Most folks rush in without thinking. You're different."
 - They still witnessed a major glitch
 
 ### What Happens to Joss
 
 If [[characters/npcs/joss-harlow|Joss Harlow]] survives:
 - Flees with surviving bandits
-- Returns in [[sessions/session-02-the-stray]] as a "stray"
+- Returns in [[sessions/session-02-the-stray|Session 2]] as a "stray"
 - He'll remember dying if killed—and that's the beginning of his breakdown
 
 If he dies:
@@ -168,7 +168,7 @@ This encounter establishes the Western tone and gives PCs agency. Whether they f
 ### Foreshadowing
 - [[characters/npcs/joss-harlow|Joss Harlow]] becomes important later
 - The combat flashback plants seeds of déjà vu
-- [[characters/npcs/corwin]] and [[characters/npcs/mirela]] are introduced as key NPCs
+- [[characters/npcs/corwin|Corwin]] and [[characters/npcs/mirela|Mirela]] are introduced as key NPCs
 
 ### Connection to Session 2
 [[characters/npcs/joss-harlow|Joss's]] appearance as a stray directly connects to this encounter. He'll remember dying—or almost dying—and that starts his breakdown.

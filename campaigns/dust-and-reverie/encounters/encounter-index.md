@@ -14,10 +14,10 @@ Quick reference for all encounters in the campaign.
 
 | Encounter | Session | Difficulty | Link |
 |-----------|---------|------------|------|
-| Calico Boys Showdown | [[sessions/session-01-arrival\|1]] | Easy | [[encounters/calico-boys-showdown]] |
-| The Ambush | [[sessions/session-02-the-stray\|2]] | Deadly | [[encounters/the-ambush]] |
-| Ashen Rider Finale | [[sessions/session-03-the-spiral\|3]] | Hard | [[encounters/ashen-rider-finale]] |
-| Loom Frame Guardian | [[sessions/session-03-the-spiral\|3]] (optional) | Medium | [[encounters/loom-frame-guardian]] |
+| Calico Boys Showdown | [[sessions/session-01-arrival\|1]] | Easy | [[encounters/calico-boys-showdown\|Calico Boys Showdown]] |
+| The Ambush | [[sessions/session-02-the-stray\|2]] | Deadly | [[encounters/the-ambush\|The Ambush]] |
+| Ashen Rider Finale | [[sessions/session-03-the-spiral\|3]] | Hard | [[encounters/ashen-rider-finale\|Ashen Rider Finale]] |
+| Loom Frame Guardian | [[sessions/session-03-the-spiral\|3]] (optional) | Medium | [[encounters/loom-frame-guardian\|Loom Frame Guardian]] |
 
 ---
 
@@ -25,9 +25,9 @@ Quick reference for all encounters in the campaign.
 
 | Encounter | Session | Type | Link |
 |-----------|---------|------|------|
-| Joss Harlow - The Stray | [[sessions/session-02-the-stray\|2]] | Horror/Social | [[encounters/joss-harlow-stray]] |
-| Vane's Revelation | [[sessions/session-03-the-spiral\|3]] | Revelation | [[encounters/vanes-revelation]] |
-| Social Encounters | All | Various | [[encounters/social-encounters]] |
+| Joss Harlow - The Stray | [[sessions/session-02-the-stray\|2]] | Horror/Social | [[encounters/joss-harlow-stray\|Joss Harlow Stray]] |
+| Vane's Revelation | [[sessions/session-03-the-spiral\|3]] | Revelation | [[encounters/vanes-revelation\|Vane's Revelation]] |
+| Social Encounters | All | Various | [[encounters/social-encounters\|Social Encounters]] |
 
 ---
 
@@ -35,7 +35,7 @@ Quick reference for all encounters in the campaign.
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Glitch Events | Random and scripted reality glitches | [[encounters/glitch-events]] |
+| Glitch Events | Random and scripted reality glitches | [[encounters/glitch-events\|Glitch Events]] |
 
 ---
 
@@ -85,7 +85,7 @@ Quick reference for all encounters in the campaign.
 
 ## Glitch Quick Reference
 
-See [[encounters/glitch-events]] for full tables.
+See [[encounters/glitch-events\|Glitch Events]] for full tables.
 
 ### Minor Glitches (DC 12-14)
 - NPC repeats exact phrase
@@ -111,7 +111,7 @@ See [[encounters/glitch-events]] for full tables.
 | Hazard | Damage/Effect | Save |
 |--------|---------------|------|
 | Sparkarm misfire | 1d6 fire | DC 12 Dex |
-| Sandstorm ([[locations/the-bones]]) | Disadvantage on Perception, difficult terrain | — |
+| Sandstorm ([[locations/the-bones\|the Bones]]) | Disadvantage on Perception, difficult terrain | — |
 | Unstable mine shaft | 2d6 falling | DC 14 Dex |
 | Reality glitch zone | 1d4 psychic, disorientation | DC 13 Wis |
 | Fire (burning building) | 1d6 fire per round | DC 12 Con |
@@ -121,14 +121,14 @@ See [[encounters/glitch-events]] for full tables.
 
 ## Social Encounter Summary
 
-See [[encounters/social-encounters]] for full dialogue and mechanics.
+See [[encounters/social-encounters\|Social Encounters]] for full dialogue and mechanics.
 
 | NPC | Goal | Approach |
 |-----|------|----------|
-| [[characters/npcs/sylene]] | Extract info, build alliance | Honest, mutual sharing |
-| [[characters/npcs/orenthal-vane]] | Receive truth, choose awakening | Genuine acceptance |
-| [[characters/npcs/the-ashen-rider]] | Negotiate surrender or alliance | Appeal to humanity |
-| [[characters/npcs/mirela]] | Bond, share awakening journey | Validate experiences |
+| [[characters/npcs/sylene\|Sylene]] | Extract info, build alliance | Honest, mutual sharing |
+| [[characters/npcs/orenthal-vane\|Orenthal Vane]] | Receive truth, choose awakening | Genuine acceptance |
+| [[characters/npcs/the-ashen-rider\|The Ashen Rider]] | Negotiate surrender or alliance | Appeal to humanity |
+| [[characters/npcs/mirela\|Mirela]] | Bond, share awakening journey | Validate experiences |
 
 ---
 
@@ -153,19 +153,19 @@ See [[encounters/social-encounters]] for full dialogue and mechanics.
 
 ### [[sessions/session-01-arrival|Session 1: Arrival]]
 1. [[encounters/glitch-events#Scripted Glitches|Piano glitch]] (subtle)
-2. [[encounters/calico-boys-showdown]] (combat or observation)
+2. [[encounters/calico-boys-showdown\|Calico Boys Showdown]] (combat or observation)
 3. [[encounters/glitch-events#Scripted Glitches|Clock tower freeze]] (major)
 
 ### [[sessions/session-02-the-stray|Session 2: The Stray]]
 1. Loop patterns noticed
 2. [[characters/npcs/the-ashen-rider|Ashen Rider]] arrival (see [[encounters/social-encounters#The Ashen Rider - Negotiation|social encounters]])
-3. [[encounters/joss-harlow-stray]] (roleplay/horror)
-4. [[encounters/the-ambush]] (deadly combat)
+3. [[encounters/joss-harlow-stray\|Joss Harlow Stray]] (roleplay/horror)
+4. [[encounters/the-ambush\|The Ambush]] (deadly combat)
 5. Reset revelation
 
 ### [[sessions/session-03-the-spiral|Session 3: The Spiral]]
 1. Quieting failure
-2. [[encounters/vanes-revelation]] (pivotal)
-3. Optional: [[encounters/loom-frame-guardian]] (if exploring)
-4. [[encounters/ashen-rider-finale]] (climax)
+2. [[encounters/vanes-revelation\|Vane's Revelation]] (pivotal)
+3. Optional: [[encounters/loom-frame-guardian\|Loom Frame Guardian]] (if exploring)
+4. [[encounters/ashen-rider-finale\|Ashen Rider Finale]] (climax)
 5. Final choice (see [[sessions/session-03-the-spiral#Act 4 The Choice|session notes]])

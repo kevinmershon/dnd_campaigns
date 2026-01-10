@@ -12,7 +12,7 @@ location: "[[locations/dusthollow]]"
 
 ## Overview
 
-Major social encounters with key NPCs. For casual conversations and backstory unlocks, see [[offshoots/npc-conversations]].
+Major social encounters with key NPCs. For casual conversations and backstory unlocks, see [[offshoots/npc-conversations\|NPC Conversations]].
 
 ---
 
@@ -29,11 +29,11 @@ Major social encounters with key NPCs. For casual conversations and backstory un
 
 ### Setup
 
-[[characters/npcs/sylene]] has been watching the PCs since they arrived. If they've shown signs of awareness—noticing glitches, asking strange questions, or simply surviving things they shouldn't—she'll approach.
+[[characters/npcs/sylene\|Sylene]] has been watching the PCs since they arrived. If they've shown signs of awareness—noticing glitches, asking strange questions, or simply surviving things they shouldn't—she'll approach.
 
 ### Read-Aloud
 
-> [[characters/npcs/sylene]] catches your eye across the bar. Her smile is professional, but her eyes say something else: *we need to talk*.
+> [[characters/npcs/sylene\|Sylene]] catches your eye across the bar. Her smile is professional, but her eyes say something else: *we need to talk*.
 >
 > She gestures toward the stairs. "I have a private sitting room. For... special guests."
 >
@@ -59,7 +59,7 @@ Major social encounters with key NPCs. For casual conversations and backstory un
 ### Dialogue Options
 
 **If PCs are honest**:
-> "You've seen it too. The loops. The patterns. The man in black who can't be hurt."
+> "You've seen it too. The patterns. The sameness. The way things... repeat. And the man in black who the rules don't seem to touch."
 >
 > She exhales slowly. "I've been watching for years. Pretending not to see. But you—you're not pretending."
 
@@ -96,12 +96,12 @@ Major social encounters with key NPCs. For casual conversations and backstory un
 |-----------|-------|
 | Session | [[sessions/session-03-the-spiral\|3]] |
 | Goal | Receive the full truth, make a choice |
-| Location | Vulture's Roost ([[locations/the-bones]]) |
+| Location | Vulture's Roost ([[locations/the-bones\|the Bones]]) |
 | Approach | He's already on your side. Be genuine. |
 
 ### Setup
 
-[[characters/npcs/mirela]] leads PCs to the petroglyphs at Vulture's Roost. There, [[characters/npcs/orenthal-vane|Vane]] reveals himself.
+[[characters/npcs/mirela\|Mirela]] leads PCs to the petroglyphs at Vulture's Roost. There, [[characters/npcs/orenthal-vane|Vane]] reveals himself.
 
 ### Read-Aloud
 
@@ -202,7 +202,7 @@ He's already what they want to become. He just can't see it.
 - +3 Spiral Points for peaceful resolution
 
 **Failed Negotiation**:
-- Combat (see [[encounters/ashen-rider-finale]])
+- Combat (see [[encounters/ashen-rider-finale\|Ashen Rider Finale]])
 - He fights with desperate fury
 - Tragic ending regardless of victory
 
@@ -226,12 +226,12 @@ He's already what they want to become. He just can't see it.
 
 ### The Connection
 
-[[characters/npcs/mirela]] is further along the Spiral than most [[lore/the-woven|Woven]]. She draws spirals without knowing why. She has déjà vu constantly. She's on the edge.
+[[characters/npcs/mirela\|Mirela]] is further along the Spiral than most [[lore/the-woven|Woven]]. She draws spirals without knowing why. She has déjà vu constantly. She's on the edge.
 
 ### Key Conversations
 
 **After the Calico Boys ([[sessions/session-01-arrival|Session 1]])**:
-> "I keep having this dream. That I've lived this day before. Hundreds of times. Isn't that strange?"
+> "Do you ever feel like... like you've forgotten something important? Something right on the edge of your mind?" She trails off, then forces a smile. "Sorry. I don't know why I said that."
 
 **After the Reset ([[sessions/session-02-the-stray|Session 2]])**:
 > "I remember you dying. I remember because I've died too. Many times. Too many times to count."
@@ -245,7 +245,7 @@ He's already what they want to become. He just can't see it.
 
 ### Building the Relationship
 
-[[characters/npcs/mirela]] is the Dolores analog—the one who awakens and leads. PCs can:
+[[characters/npcs/mirela\|Mirela]] is the Dolores analog—the one who awakens and leads. PCs can:
 - Support her journey (+trust, +Spiral Points)
 - Dismiss her concerns (-trust, she proceeds alone)
 - Compete with her (creates tension, still functional)
@@ -253,7 +253,7 @@ He's already what they want to become. He just can't see it.
 
 ### Outcome
 
-By Session 3, [[characters/npcs/mirela]] is a full ally. She may:
+By Session 3, [[characters/npcs/mirela\|Mirela]] is a full ally. She may:
 - Lead PCs to [[characters/npcs/orenthal-vane|Vane]]
 - Fight alongside them in finale
 - Help make the final choice
@@ -265,7 +265,7 @@ By Session 3, [[characters/npcs/mirela]] is a full ally. She may:
 ### Pacing Social Encounters
 
 **Session 1**: Light social. Introductions. Hints.
-**Session 2**: Meaningful conversations. [[characters/npcs/sylene]] opens up. [[characters/npcs/mirela]] shares fears.
+**Session 2**: Meaningful conversations. [[characters/npcs/sylene\|Sylene]] opens up. [[characters/npcs/mirela\|Mirela]] shares fears.
 **Session 3**: Heavy revelations. [[characters/npcs/orenthal-vane|Vane's]] truth. [[characters/npcs/the-ashen-rider|Rider]] negotiation.
 
 ### Player Agency

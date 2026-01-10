@@ -144,7 +144,7 @@ Use these when PCs enter Stage 1+:
 | 4 | "You reach for your weapon and your hand moves in a pattern you don't consciously know." |
 | 5 | "For a moment, you remember dying here. Bullets in your chest. Then it's gone." |
 | 6 | "You know this man's name before he says it. You don't know how." |
-| 7 | "The sunset is beautiful. You've seen this exact sunset hundreds of times." |
+| 7 | "The sunset is beautiful. Familiar. Too familiar. Like a painting you've stared at your whole life." |
 | 8 | "A child runs past. You remember her older, then younger, then—" |
 | 9 | "You speak words you didn't plan to say. An old line from an old loop." |
 | 10 | "For one horrible moment, you see yourself from outside—a puppet on strings." |

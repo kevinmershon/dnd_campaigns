@@ -3,7 +3,7 @@ type: encounter
 tags: [encounter, combat, session-3, finale, boss]
 status: active
 difficulty: hard
-location: "[[locations/dusthollow]]"
+location: "[[locations/dusthollow|Dusthollow]]"
 ---
 
 # The Ashen Rider - Final Confrontation
@@ -15,10 +15,10 @@ location: "[[locations/dusthollow]]"
 | Attribute | Value |
 |-----------|-------|
 | Type | Combat (boss fight) |
-| Session | [[sessions/session-03-the-spiral]] |
+| Session | [[sessions/session-03-the-spiral|Session 3]] |
 | Difficulty | Hard |
 | Goal | Climactic fight where PCs can finally hurt [[characters/npcs/the-ashen-rider\|the Rider]] |
-| Location | Canyon entrance, burning [[locations/dusthollow]], or [[locations/the-bones\|the Bones]] |
+| Location | Canyon entrance, burning [[locations/dusthollow|Dusthollow]], or [[locations/the-bones\|the Bones]] |
 
 ---
 
@@ -39,7 +39,7 @@ For PCs who chose to awaken (Stage 4):
 
 ### Read-Aloud
 
-> He stands at the entrance to the canyon, black against the burning sky. Behind him, [[locations/dusthollow]] is in chaos—Woven breaking their Threads, Patrons fleeing, reality glitching and warping.
+> He stands at the entrance to the canyon, black against the burning sky. Behind him, [[locations/dusthollow|Dusthollow]] is in chaos—Woven breaking their Threads, Patrons fleeing, reality glitching and warping.
 >
 > [[characters/npcs/the-ashen-rider|The Rider]] looks older somehow. Tired. His eyes search your faces with something like desperation.
 >
@@ -178,7 +178,7 @@ Uncanny Dodge. Halve damage from one attack he can see.
 >
 > "So this is it," he whispers. "This is real."
 >
-> And he dies. The man in black, the terror of [[locations/dusthollow]], the Patron who couldn't find what he was looking for.
+> And he dies. The man in black, the terror of [[locations/dusthollow|Dusthollow]], the Patron who couldn't find what he was looking for.
 >
 > Dead. Finally dead. Not reset. Not returned.
 >
@@ -216,7 +216,7 @@ Uncanny Dodge. Halve damage from one attack he can see.
 
 Whatever the outcome:
 
-> The dust settles. [[locations/dusthollow]] burns or doesn't. The sky flickers with geometric patterns. Reality holds its breath.
+> The dust settles. [[locations/dusthollow|Dusthollow]] burns or doesn't. The sky flickers with geometric patterns. Reality holds its breath.
 >
 > And you stand here—awake, aware, *alive* in a way you never were before.
 >

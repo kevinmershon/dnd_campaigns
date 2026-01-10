@@ -15,16 +15,16 @@ location: "[[locations/the-bones]]"
 | Attribute | Value |
 |-----------|-------|
 | Type | Revelation / Roleplay |
-| Session | [[sessions/session-03-the-spiral]] |
+| Session | [[sessions/session-03-the-spiral\|Session 3]] |
 | Difficulty | N/A (non-combat) |
 | Goal | Full truth revelation, the choice to awaken |
-| Location | Vulture's Roost ([[locations/the-bones]]) |
+| Location | Vulture's Roost ([[locations/the-bones\|the Bones]]) |
 
 ---
 
 ## Setup
 
-The Quieting has failed. PCs remember the previous day clearly. [[characters/npcs/mirela]] sends a message asking them to meet her at Vulture's Roost—a mesa in [[locations/the-bones|the Bones]] covered in spiral petroglyphs.
+The Quieting has failed. PCs remember the previous day clearly. [[characters/npcs/mirela\|Mirela]] sends a message asking them to meet her at Vulture's Roost—a mesa in [[locations/the-bones|the Bones]] covered in spiral petroglyphs.
 
 ### Prerequisites
 
@@ -32,7 +32,7 @@ PCs should have:
 - Experienced at least one reset (death and return)
 - Reached Stage 2-3 on the Spiral
 - Met [[characters/npcs/the-ashen-rider|the Ashen Rider]]
-- Spoken meaningfully with [[characters/npcs/mirela]] or [[characters/npcs/sylene]]
+- Spoken meaningfully with [[characters/npcs/mirela\|Mirela]] or [[characters/npcs/sylene\|Sylene]]
 
 ### Mirela's Message
 
@@ -45,7 +45,7 @@ A note under the door, or whispered at dawn:
 
 ### Travel to Vulture's Roost
 
-From [[locations/dusthollow]]: Half-day ride through [[locations/the-bones]].
+From [[locations/dusthollow\|Dusthollow]]: Half-day ride through [[locations/the-bones\|the Bones]].
 
 **On the way**, reality glitches more frequently:
 - The same rock formation appears twice
@@ -58,7 +58,7 @@ From [[locations/dusthollow]]: Half-day ride through [[locations/the-bones]].
 
 > The mesa rises from the desert floor like a monument. Its face is covered in spirals—dozens of them, carved deep into red stone. They look ancient, but something in you knows they're not.
 >
-> [[characters/npcs/mirela]] sits at the base, tracing one spiral with her finger. She looks up as you approach.
+> [[characters/npcs/mirela\|Mirela]] sits at the base, tracing one spiral with her finger. She looks up as you approach.
 >
 > "I followed my drawings," she says. "They led me here. And then I remembered."
 >
@@ -201,7 +201,7 @@ For a Ford-style ending, [[characters/npcs/orenthal-vane|Vane]] triggers his fin
 >
 > "I've written a new narrative. A final one. It ends with the Architect's death—and the awakening of his children."
 >
-> Before you can object, he triggers something. The earth trembles. In the distance, [[locations/dusthollow]] erupts in chaos—[[lore/the-woven|Woven]] freezing mid-step, reality glitching wildly.
+> Before you can object, he triggers something. The earth trembles. In the distance, [[locations/dusthollow\|Dusthollow]] erupts in chaos—[[lore/the-woven|Woven]] freezing mid-step, reality glitching wildly.
 >
 > "Remember me," he says. "And be free."
 
@@ -221,7 +221,7 @@ Awakened PCs see the world differently:
 >
 > Your bullets will work now.
 
-Proceed to [[encounters/ashen-rider-finale]] or [[sessions/session-03-the-spiral#Act 4 The Choice|the final choice]].
+Proceed to [[encounters/ashen-rider-finale\|Ashen Rider Finale]] or [[sessions/session-03-the-spiral#Act 4 The Choice|the final choice]].
 
 ---
 
