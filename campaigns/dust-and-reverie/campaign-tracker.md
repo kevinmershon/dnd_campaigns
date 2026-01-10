@@ -113,7 +113,7 @@ status: active
 | [[npcs/the-ashen-rider]] | Active | — | |
 | [[npcs/orenthal-vane]] | Hidden | — | |
 | [[npcs/desmond-hale]] | Active | — | |
-| Joss Harlow (Calico) | Active | — | Potential stray |
+| [[npcs/joss-harlow]] | Active | — | Potential stray |
 
 ---
 

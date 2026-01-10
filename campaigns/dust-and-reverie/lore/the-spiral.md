@@ -19,11 +19,17 @@ In-world, it appears as a symbol—a spiral pattern—hidden throughout the Reac
 
 A simple spiral, carved or drawn:
 ```
-    ╭─────╮
-   ╭╯ ╭───╯
-  ╭╯ ╭╯
-  │  │
-  ╰──╯
+###########
+#
+# #######
+# #     #
+# # ### #
+# # # # #
+# # # # #
+# #   # #
+# ##### #
+#       #
+#########
 ```
 
 Found at:

@@ -27,7 +27,7 @@ act: "The Stray"
 >
 > There's a tightness in your chest, a feeling that you've been here before—not just in this town, but in this exact moment. The way the light falls. The creak of the floorboard. The distant sound of a piano playing that same melody.
 
-### The Loop Becomes Visible
+### The Pattern Becomes Visible
 As PCs move through town, things repeat:
 - Harken waves the exact same greeting
 - The same stagecoach arrives (same driver, same passengers?)
@@ -54,9 +54,10 @@ He approaches [[npcs/sylene]]:
 Sylene deflects. The Rider doesn't push—yet.
 
 ### First Confrontation
-If PCs engage him:
+
+**If PCs engage him**:
 - He's dismissive but not immediately hostile
-- His questions are strange ("How long have you been in this loop?")
+- His questions are strange ("How many times have you walked this same stretch of road?")
 - He treats everyone like they're not quite real
 
 **If PCs attack** (or hostility escalates):
@@ -69,6 +70,19 @@ The Rider draws faster than possible. Roll attacks against him—**they all miss
 > He holsters his weapon and walks away.
 
 **Spiral Points**: +3 for witnessing Patron immunity
+
+**If PCs don't engage or stay neutral**:
+The Rider watches them with unnerving interest, but doesn't force confrontation.
+
+> He studies you like a man examining a painting—looking for something beneath the surface. After a long moment, he seems to reach a conclusion.
+>
+> "Not yet," he murmurs. "But soon, I think."
+>
+> He finishes his drink, leaves a coin on the bar, and walks out without another word. The piano starts up again the moment the doors swing shut.
+
+Sylene exhales slowly. "That one's been coming around for years. Never causes trouble himself. Just... watches. Asks questions. Makes people uncomfortable."
+
+**Spiral Points**: +1 for witnessing someone the rules don't seem to apply to
 
 ## Act 2: Glitches Intensify
 

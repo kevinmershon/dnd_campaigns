@@ -70,12 +70,12 @@ If PCs approach, she's friendly but distracted. She mentions trouble with rustle
 ### The Calico Boys
 A commotion outside—the **Calico Boys** (4 bandits) are threatening **Harken's General Store**.
 
-**Leader (Joss Harlow)**:
+**Leader ([[npcs/joss-harlow|Joss Harlow]])**:
 > A scarred man with a calico bandana spits on the boardwalk. "Harken! You owe for protection. Pay up or we start breaking things. Starting with that pretty display window."
 
 This is a classic Western setup—do the PCs intervene?
 
-### Combat: Calico Boys
+### If PCs Intervene: Combat
 
 **4x Bandits** (MM p. 343)
 - AC 12, HP 11
@@ -84,11 +84,31 @@ This is a classic Western setup—do the PCs intervene?
 
 Corwin joins if PCs engage. Mirela takes cover but will help wounded after.
 
-### Second Glitch (During Combat)
+**Second Glitch (During Combat)**:
 If a PC takes damage:
 > Pain flares through you—and for an instant, you remember *dying*. Here, in this street, bullets in your chest. Then the memory's gone, and you're still standing, still fighting.
 
 First Spiral Point earned.
+
+### If PCs Don't Intervene: Observation
+
+Maybe they're cautious. Maybe they're cowardly. Maybe they just want to see how things play out. That's fine—the glitch still happens.
+
+> You watch from the saloon doorway as the confrontation unfolds. Corwin steps out, hand on his pistol. Words are exchanged. Then guns clear leather.
+>
+> The fight is brief and brutal. Corwin drops two of them before taking a bullet to the shoulder. One of the outlaws grabs Mirela—
+>
+> And then everything *stops*.
+>
+> Not slows. *Stops.* The dust hangs frozen in the air. The gunsmoke becomes a still sculpture. Mirela's scream cuts off mid-note. For three heartbeats, the world is a painting.
+>
+> Then reality shudders back into motion. The outlaw releases Mirela, clutching his head like a man with a sudden migraine. "What—what was I—" He stumbles, confused. His companions grab him and flee. No one else seems to have noticed the freeze.
+>
+> Corwin, bleeding, holsters his weapon. "That was... strange. Felt like I blinked and lost a second."
+
+**Spiral Points**: +2 for witnessing a major glitch
+
+**Aftermath**: The town still treats Corwin as the hero. PCs who didn't act may receive cool looks from some townsfolk, but Sylene notes their restraint with interest: "You held back. Watched. Most folks rush in without thinking. You're different."
 
 ## Act 3: Aftermath
 

@@ -103,6 +103,7 @@ Attacks against Patrons automatically miss or deal no damage. The Woven rational
 
 ### Locations
 - [[locations/dusthollow]]
+- [[locations/dusthollow-details]] (livery, canyon, ranch, jail)
 - [[locations/the-gilded-reach]]
 - [[locations/the-bones]] (badlands/desert)
 - [[locations/loom-sanctum]] (behind the scenes)
@@ -111,6 +112,7 @@ Attacks against Patrons automatically miss or deal no damage. The Woven rational
 - [[npcs/mirela]] - The rancher's daughter (awakening)
 - [[npcs/sylene]] - The Dusty Rose proprietor (awakening)
 - [[npcs/corwin]] - The loyal gunhand
+- [[npcs/joss-harlow]] - Calico Boys leader (potential stray)
 - [[npcs/the-ashen-rider]] - The man who knows too much
 - [[npcs/orenthal-vane]] - The Architect
 - [[npcs/desmond-hale]] - The hidden host

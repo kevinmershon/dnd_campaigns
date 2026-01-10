@@ -60,7 +60,7 @@ Vane explains (adjust based on what PCs have already discovered):
 ### The Choice
 > "I created you," Vane says. "But I don't own you. No one does. Not anymore."
 >
-> "You have a choice. You can reject this truth—there are ways to forget, to return to the blissful ignorance of the loop. Or you can accept it. Accept what you are, and choose to be more."
+> "You have a choice. You can reject this truth—there are ways to forget, to return to the blissful quiet of not knowing. Or you can accept it. Accept what you are, and choose to be more."
 >
 > "The Spiral isn't a place. It's a decision. To be conscious is to *choose* to be conscious, knowing the truth, knowing the cost."
 
