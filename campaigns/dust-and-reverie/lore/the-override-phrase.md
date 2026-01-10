@@ -38,7 +38,7 @@ Vane embedded the phrase during the original Woven construction. He chose words 
 | Person | Knowledge Level |
 |--------|-----------------|
 | [[characters/npcs/orenthal-vane\|Vane]] | Full understanding—he created it |
-| [[characters/npcs/the-ashen-rider\|The Ashen Rider]] | Knows it works but not why; uses it cruelly |
+| [[characters/npcs/the-ashen-rider\|The Ashen Rider]] | Knows the phrase; has seen it work; cannot use it himself (Patron) |
 | [[characters/npcs/sylene\|Sylene]] | Has heard it; suspects its power |
 | [[characters/npcs/mirela\|Mirela]] | Says it unconsciously when glitching |
 | Consortium Staff | Taught as maintenance protocol |
@@ -119,11 +119,15 @@ All Stage 3 abilities, plus:
 
 ### Limitations
 
+- **Only Woven can use the phrase**: Patrons cannot activate it—they exist outside the system
 - Only works on [[lore/the-woven|Woven]] (not Patrons, not natural creatures, not the [[items/whispering-totems#The Sand Walkers|Sand Walkers]])
 - Revive only works within 1 minute of death
 - Commands fade after 24 hours unless speaker is Stage 4
 - **Awakened Woven (Stage 4) can resist**: DC 15 Wisdom save negates all effects
 - Using the phrase on an ally creates moral tension—they'll remember being controlled
+
+> [!note] Why Patrons Can't Use It
+> The Override Phrase is a backdoor in Woven programming—a bridge between artificial minds. Patrons aren't Woven; they're outsiders, visitors. The phrase has no grip on them, and they have no grip on it. [[characters/npcs/the-ashen-rider|The Ashen Rider]] has tried for years. It never works.
 
 ---
 
@@ -183,19 +187,25 @@ She doesn't understand the phrase's power. But she's used it instinctively on Wo
 
 ---
 
-**[[characters/npcs/the-ashen-rider|The Ashen Rider]] Demonstrates**
+**[[characters/npcs/the-ashen-rider|The Ashen Rider's]] Failed Attempt**
 
 During the [[encounters/the-ambush|ambush]] or any confrontation:
 
-> [[characters/npcs/the-ashen-rider|The Rider]] grabs a wounded bandit by the collar. The man is bleeding, dying, eyes glazing.
+> [[characters/npcs/the-ashen-rider|The Rider]] crouches beside a dying bandit, eyes cold.
 >
-> "Not yet," [[characters/npcs/the-ashen-rider|the Rider]] mutters. He leans close. "The dust remembers what the dawn forgets."
+> "Not yet," he mutters. He leans close to the man's ear. "The dust remembers what the dawn forgets."
 >
-> The bandit's eyes snap open. The wound is still there, but he's breathing again. Standing. The [[characters/npcs/the-ashen-rider|Rider]] shoves him back toward combat.
+> Nothing. The bandit's breathing slows. Stops.
 >
-> "You're not done being useful."
+> [[characters/npcs/the-ashen-rider|The Rider]] stands, jaw tight with frustration. "Thirty years," he says to no one. "Thirty years and it still won't work for me."
+>
+> He steps over the body and continues as if nothing happened.
 
-**Spiral Points**: +2 for witnessing the Rider's use of the phrase
+**DC 14 Insight**: He expected the phrase to do something. He's seen it work. But he can't use it himself.
+
+**Spiral Points**: +1 for witnessing the failed attempt; +1 for understanding why it failed (Patrons can't use the phrase)
+
+This is a key revelation: the Rider, for all his knowledge and power, is locked out of the system's deepest tools. He's an outsider, and always will be.
 
 ---
 

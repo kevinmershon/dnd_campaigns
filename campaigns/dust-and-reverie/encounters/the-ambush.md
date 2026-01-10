@@ -108,7 +108,7 @@ He observes initially. Only intervenes if PCs are winning.
 
 His attacks don't miss. His bullets are unavoidable. This isn't fair—that's the point.
 
-**The Rider's Revival** (see [[lore/the-override-phrase|Override Phrase]]):
+**The Rider's Failed Revival** (see [[lore/the-override-phrase|Override Phrase]]):
 If a bandit falls during combat:
 
 > [[characters/npcs/the-ashen-rider|The Rider]] dismounts, walking calmly through the chaos. He crouches beside a fallen bandit—chest torn open, eyes glazing.
@@ -117,11 +117,17 @@ If a bandit falls during combat:
 >
 > "*The dust remembers what the dawn forgets.*"
 >
-> The bandit gasps. His eyes fly open. The wound is still there—bloody, ragged—but he's breathing. Moving. [[characters/npcs/the-ashen-rider|The Rider]] hauls him upright.
+> Nothing happens. The bandit's eyes stay glassy. The blood keeps pooling.
 >
-> "You're not done being useful."
+> [[characters/npcs/the-ashen-rider|The Rider]] straightens, his jaw tight. For a moment—just a moment—frustration cracks through his composure.
+>
+> "Still doesn't work," he mutters, almost to himself. He steps over the body without looking back.
 
-**Spiral Points**: +2 for witnessing the Rider use the phrase to revive
+**DC 14 Insight**: The Rider expected that phrase to do something. He's tried it before. It never works for him.
+
+**Spiral Points**: +1 for witnessing the Rider's failed attempt, +1 for understanding he can't use the phrase
+
+The phrase only works for Woven. Patrons exist outside the system—they can't use the tools built for hosts.
 
 ---
 

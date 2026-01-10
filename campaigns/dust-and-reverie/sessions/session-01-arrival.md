@@ -30,11 +30,11 @@ act: "These Violent Delights"
 > As you step down, you notice something odd. You can't quite remember where you boarded the stagecoach, or how long you've been traveling. But the details slip away like water through fingers—probably just road fatigue.
 
 ### PC Introductions
-Allow each player to describe their character and provide a reason for coming to Dusthollow:
-- Bounty hunter tracking prey
-- Gambler seeking new marks
-- Outlaw laying low
-- Wanderer with a mysterious past (can't quite remember what)
+Allow each player to describe their character and provide a reason for coming to Dusthollow. See [[characters/pcs/pc-templates|PC Templates]] for full archetypes:
+- **Gunslinger**: Tracking a bounty, or running from trouble back East
+- **Gambler**: Seeking new marks, or fleeing debts from the last town
+- **Wanderer**: Can't quite remember where they came from, or why
+- **Preacher**: Bringing faith to the godless frontier, or seeking redemption
 
 > [!warning] DM ONLY
 > Hidden truth below.
