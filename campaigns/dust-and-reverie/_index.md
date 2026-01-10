@@ -120,6 +120,7 @@ Attacks against Patrons automatically miss or deal no damage. The Woven rational
 
 ### Lore
 - [[lore/the-spiral]]
+- [[lore/the-override-phrase]] - The control phrase and its tiered abilities
 - [[lore/the-loom-consortium]]
 - [[lore/the-woven]]
 
@@ -132,6 +133,7 @@ Attacks against Patrons automatically miss or deal no damage. The Woven rational
 - [[offshoots/dusthollow-arrival]] - Town exploration before the Rose
 - [[offshoots/dusty-rose-activities]] - Cards, drinks, piano, working girls
 - [[offshoots/npc-conversations]] - Backstory unlocks with Charisma checks
+- [[offshoots/quest-hooks]] - Narrative loops and side quests
 
 ### Encounters
 - [[encounters/encounter-index]] - Quick reference for all encounters

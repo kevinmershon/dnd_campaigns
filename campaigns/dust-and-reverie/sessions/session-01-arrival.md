@@ -36,6 +36,9 @@ Allow each player to describe their character and provide a reason for coming to
 - Outlaw laying low
 - Wanderer with a mysterious past (can't quite remember what)
 
+> [!warning] DM ONLY
+> Hidden truth below.
+
 **Hidden Truth**: None of these backstories are real. The PCs are Woven whose Threads began with this stagecoach arrival.
 
 ## Act 1: Welcome to Town
@@ -53,6 +56,8 @@ Players likely head to the saloon. Describe:
 
 ### Sandbox Time (Optional)
 
+> See [[offshoots/quest-hooks|Quest Hooks]] for narrative loops PCs can engage with during sandbox time.
+
 Let players explore before the plot kicks in. Options:
 - **Play cards** with [[characters/npcs/saloon-regulars#Lucky Mercer|Lucky Mercer]] and [[characters/npcs/saloon-regulars#Hollis Tate|Hollis Tate]] (brewing conflict)
 - **Order drinks** from [[characters/npcs/dusty-rose-staff#Silas|Silas]] (watch his identical pours)
@@ -65,11 +70,21 @@ Let players explore before the plot kicks in. Options:
 ### First Glitch (Subtle)
 
 > See [[encounters/glitch-events#Scripted Glitches|scripted glitches]] for the full list.
+> See [[lore/the-override-phrase|The Override Phrase]] for the hidden mechanic at play here.
 
 As players settle in:
-> The piano player hits a wrong note. For just a moment, his hands freeze above the keys. Then he continues, playing the exact same melody from the beginning, as if nothing happened.
+> The piano player hits a wrong note. His hands freeze above the keys. His eyes go distant, unfocused.
+>
+> [[characters/npcs/sylene|Sylene]], watching from the bar, sets down her glass. She moves closer to the piano, leaning in. You catch a murmur—words too quiet to make out clearly.
+>
+> The piano player shudders. His eyes refocus. Then he continues, playing the exact same melody from the beginning, as if nothing happened. But there's something different in his expression now. Something... settled.
+>
+> Sylene returns to the bar, her face unreadable.
 
-No one else notices. DC 15 Perception to catch it happening. (+1 Spiral Point)
+**DC 15 Perception**: Notice Sylene's intervention.
+**DC 18 Perception**: Catch the words: *"The dust remembers what the dawn forgets."*
+
+(+1 Spiral Point for noticing the glitch; +1 additional if they hear the phrase)
 
 ### Meeting Mirela
 [[characters/npcs/mirela|Mirela]] enters the saloon:
@@ -145,11 +160,16 @@ As PCs prepare to sleep:
 
 ## DM Notes
 
+> [!warning] DM ONLY
+> Do not share with players under any circumstances.
+
 ### Spiral Points Earned This Session
 - Witnessing piano glitch: 1 point
+- Hearing the [[lore/the-override-phrase|Override Phrase]]: 1 point (if DC 18 Perception succeeds)
 - Combat flashback: 1 point
 - Clock tower freeze: 2 points
 - Mirela's conversation: 1 point (if engaged deeply)
+- Witnessing resurrection (optional): 2 points
 
 **Target**: PCs should have 3-5 Spiral Points (approaching Stage 1).
 
@@ -162,6 +182,7 @@ As PCs prepare to sleep:
 ### Optional Content
 - **[[characters/npcs/rusty-cogwell|Rusty Cogwell]]**: A malfunctioning tinkerer on the stagecoach or in town—foreshadows the [[items/the-gilded-core|Gilded Core]] subplot
 - **[[items/the-spiral-wheel|Spiral Wheel]]**: Hidden in Sylene's basement (DC 18 Investigation to find)
+- **The Resurrection**: If [[characters/npcs/joss-harlow|Joss]] is killed in the showdown, see [[lore/the-override-phrase#Session 1 Witnessing the Phrase|the Override Phrase]] for an optional scene where one of his gang (Della) instinctively revives him (+2 Spiral Points)
 
 ### Next Session Setup
 - The Ashen Rider arrives

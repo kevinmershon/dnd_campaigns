@@ -63,6 +63,9 @@ He observes initially. Only intervenes if PCs are winning.
 |----------|----|----|--------|--------|
 | The Ashen Rider | 18 | 75 | +7 | 1d10+5 (sparkpistol x2) |
 
+> [!warning] DM ONLY
+> Hidden mechanic below.
+
 **Critical**: While PCs are at Stage 0-2, they cannot harm [[characters/npcs/the-ashen-rider|the Rider]]. Attacks miss or deal 0 damage. This is Patron immunity.
 
 ---
@@ -104,6 +107,21 @@ He observes initially. Only intervenes if PCs are winning.
 > [[characters/npcs/the-ashen-rider|The Rider]] draws faster than sight. Two shots. Two bodies. His expression doesn't change.
 
 His attacks don't miss. His bullets are unavoidable. This isn't fair—that's the point.
+
+**The Rider's Revival** (see [[lore/the-override-phrase|Override Phrase]]):
+If a bandit falls during combat:
+
+> [[characters/npcs/the-ashen-rider|The Rider]] dismounts, walking calmly through the chaos. He crouches beside a fallen bandit—chest torn open, eyes glazing.
+>
+> "Not yet," he says flatly. He leans close to the dying man's ear.
+>
+> "*The dust remembers what the dawn forgets.*"
+>
+> The bandit gasps. His eyes fly open. The wound is still there—bloody, ragged—but he's breathing. Moving. [[characters/npcs/the-ashen-rider|The Rider]] hauls him upright.
+>
+> "You're not done being useful."
+
+**Spiral Points**: +2 for witnessing the Rider use the phrase to revive
 
 ---
 
@@ -174,6 +192,9 @@ Everyone remembers. The dead PC is alive. No one in town comments on yesterday's
 ---
 
 ## DM Notes
+
+> [!warning] DM ONLY
+> Do not share with players under any circumstances.
 
 ### Purpose
 This encounter forces the central revelation: death doesn't stick. It's meant to be unfair, to show that [[characters/npcs/the-ashen-rider|the Rider]] plays by different rules.

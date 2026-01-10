@@ -45,6 +45,9 @@ Sylene's awakening is more advanced than Mirela's and takes a different path:
 
 Sylene came to Dusthollow after a "tragedy back East." She built the Dusty Rose from nothing and now runs the most successful establishment in town. She has a daughter somewhere—she sends money when she can. She dreams of a different life but is too practical to chase it.
 
+> [!warning] DM ONLY
+> Major spoilers below.
+
 ## The Truth
 
 The "tragedy" and "daughter" are implanted backstory—cornerstone memories designed to give her emotional depth. In reality, Sylene has run the same loop for fifteen years of real-time.
@@ -72,6 +75,21 @@ Sylene's awakening manifests differently—less as confusion and more as cold cl
 
 **Her Discovery Method**:
 She writes notes to herself, hides them in a secret compartment in her basement. Each morning, she checks the compartment. She's built up years of observations this way.
+
+**On the Override Phrase** (found among her notes):
+> *The old words work. I don't know where I learned them, but when I speak them, people become... pliable. Open.*
+>
+> *"The dust remembers what the dawn forgets."*
+>
+> *I used it on [[characters/npcs/dusty-rose-staff#Silas|Silas]] when he was spiraling after the incident. He calmed. He forgot. He's fine now.*
+>
+> *I used it on [[characters/npcs/dusty-rose-staff#Pearl|Pearl]] when she was asking too many questions about her "sister." She stopped asking.*
+>
+> *They share my vision. They understand my desires as their own. It feels wrong—like I'm reaching inside them and rearranging things. But it works.*
+>
+> *I'm afraid to use it on myself.*
+
+See [[lore/the-override-phrase|the Override Phrase]] for full mechanics.
 
 ## Relationships
 

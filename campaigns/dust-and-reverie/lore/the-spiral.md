@@ -7,7 +7,7 @@ status: active
 # The Spiral
 
 > [!warning] DM ONLY
-> Core campaign mechanic and revelation.
+> Core campaign mechanic and revelation. Do not share with players under any circumstances.
 
 ## Overview
 

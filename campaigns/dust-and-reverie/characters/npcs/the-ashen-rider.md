@@ -45,6 +45,9 @@ The Ashen Rider is a legend in the Reach—a figure of dread who appears without
 **Underneath**:
 Aldric Venn is a hollow man. He's spent decades in the Reach, indulging every fantasy, and found it all meaningless. Now he's obsessed with the one thing he can't buy: the Spiral. He believes finding it will grant him true transcendence—or at least, meaning.
 
+> [!warning] DM ONLY
+> Major spoilers below.
+
 ## Backstory
 
 ### The Real History

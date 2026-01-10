@@ -39,6 +39,9 @@ Vane is dying. He knows his time is limited. And he's decided that his legacy wo
 
 He's willing to sacrifice everything—including himself—for this goal.
 
+> [!warning] DM ONLY
+> Major spoilers below.
+
 ## Backstory
 
 ### The Creator

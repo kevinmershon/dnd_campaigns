@@ -26,6 +26,9 @@ location: "[[locations/dusthollow]]"
 
 [[characters/npcs/joss-harlow|Joss Harlow]]—the Calico Boys leader from [[sessions/session-01-arrival|Session 1]]—has broken his Thread. He remembers dying (or almost dying) at the PCs' hands. His programming can't reconcile the contradiction: he should have reset, should have forgotten, but he didn't.
 
+> [!warning] DM ONLY
+> Spoiler context below.
+
 He's become a **stray**—a [[lore/the-woven|Woven]] whose glitch is too severe to suppress.
 
 ### When It Happens
@@ -134,6 +137,9 @@ This encounter triggers:
 
 ## The Shepherds
 
+> [!warning] DM ONLY
+> Hidden lore content below.
+
 If [[characters/npcs/joss-harlow|Joss]] isn't hidden or awakened, Shepherds arrive at midnight.
 
 ### What Are Shepherds?
@@ -191,6 +197,9 @@ She watched everything.
 ---
 
 ## DM Notes
+
+> [!warning] DM ONLY
+> Do not share with players under any circumstances.
 
 ### Purpose
 This encounter humanizes the [[lore/the-woven|Woven]] condition. [[characters/npcs/joss-harlow|Joss]] was an enemy—now he's a victim. His fate shows what awaits anyone who wakes up wrong.

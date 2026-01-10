@@ -32,6 +32,16 @@ A palm-sized wooden wheel, intricately carved with a spiral pattern that leads f
 >
 > And yet, somehow, you know this puzzle has a solution. You know because... because you've solved it before?
 
+### The Hidden Inscription
+
+On the back of the wheel, barely visible without careful examination (DC 14 Investigation):
+
+> *For those who wake: speak the words and they shall hear. Speak and they shall share your vision. Speak and even death shall listen.*
+>
+> *"The dust remembers what the dawn forgets."*
+
+This inscription provides the [[lore/the-override-phrase|Override Phrase]] and hints at its power. Finding it grants +1 Spiral Point.
+
 ---
 
 ## History
@@ -108,6 +118,9 @@ Not useful as a weapon. A Woven who holds a solved wheel gains:
 ---
 
 ## DM Notes
+
+> [!warning] DM ONLY
+> Do not share with players under any circumstances.
 
 ### Purpose
 

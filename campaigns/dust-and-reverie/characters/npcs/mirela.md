@@ -45,6 +45,9 @@ As she progresses, Mirela becomes:
 
 Mirela lives on a small ranch outside Dusthollow with her father, Holt. Her mother died when she was young. She dreams of seeing the world beyond the frontier, but duty keeps her close to home. She's kind to strangers and quick to help those in need.
 
+> [!warning] DM ONLY
+> Major spoilers below.
+
 ## The Truth
 
 Mirela is one of the oldest Woven in the Reach—she's been running for decades of real-time. She's died thousands of times, loved and lost countless Patrons who treated her as entertainment, and been reset each night.

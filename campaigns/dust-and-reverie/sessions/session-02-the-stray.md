@@ -89,6 +89,7 @@ Sylene exhales slowly. "That one's been coming around for years. Never causes tr
 ## Act 2: Glitches Intensify
 
 > See [[encounters/glitch-events|Glitch Events]] for random glitch tables.
+> See [[offshoots/quest-hooks|Quest Hooks]] for narrative loops PCs can pursue between main plot beats.
 
 ### The Stray NPC
 
@@ -102,6 +103,9 @@ Sylene exhales slowly. "That one's been coming around for years. Never causes tr
 >
 > He looks at the PCs. "What's happening to me?"
 
+> [!warning] DM ONLY
+> Hidden truth below.
+
 This is a "stray"—a [[lore/the-woven|Woven]] whose glitch is too severe to suppress. Shepherds will come for him tonight.
 
 ### Mirela's Confession
@@ -114,6 +118,19 @@ If PCs seek out [[characters/npcs/mirela|Mirela]]:
 > She looks at you with desperate hope. "You feel it too, don't you? Something's wrong. Something's been wrong for... for longer than I can remember."
 
 If PCs have gained her trust, she may show them [[items/mirelas-sketchbook|the sketchbook]]—filled with spirals, geometric patterns, and disturbing images of faceless figures in strange suits. (+2 Spiral Points)
+
+**The Phrase** (see [[lore/the-override-phrase|Override Phrase]]):
+If PCs mention strange words or Sylene's whisper:
+
+> Mirela's eyes widen. "You've heard it too?"
+>
+> She hesitates, then speaks quietly: "*The dust remembers what the dawn forgets.*"
+>
+> "Sometimes I say it without meaning to. When people are hurting, or scared, or... breaking. I say it, and they calm down. They listen. It's like..." She struggles for words. "Like they share my vision. Like they understand what I want them to feel."
+>
+> She shakes her head. "I don't know where I learned it. But it's always been there. Waiting."
+
+(+1 Spiral Point for hearing Mirela explain the phrase's effect)
 
 ### Sylene's Basement (Optional)
 
@@ -172,11 +189,16 @@ End on the central question:
 
 ## DM Notes
 
+> [!warning] DM ONLY
+> Do not share with players under any circumstances.
+
 ### Spiral Points Earned This Session
 - Recognizing loop patterns: 2 points
 - Witnessing Patron immunity: 3 points
 - The stray NPC breakdown: 2 points
 - Finding Sylene's notes: 2-3 points
+- Hearing Mirela explain the [[lore/the-override-phrase|Override Phrase]]: 1 point
+- Witnessing the Rider revive a bandit: 2 points
 - Dying and resetting: 5 points
 - Mirela's revelation: 2 points
 

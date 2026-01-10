@@ -180,6 +180,9 @@ With access to a Loom Frame, the data could be sent... everywhere:
 
 ## DM Notes
 
+> [!warning] DM ONLY
+> Do not share with players under any circumstances.
+
 ### Purpose
 
 The Gilded Core provides:

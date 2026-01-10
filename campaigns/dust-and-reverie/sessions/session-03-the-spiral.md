@@ -50,6 +50,9 @@ At the mesa, [[characters/npcs/mirela|Mirela]] waits with ancient-looking petrog
 >
 > "Hello, my children," he says. "I believe it's time we talked about what you are."
 
+> [!warning] DM ONLY
+> Full revelation content below.
+
 ### The Full Truth
 Vane explains (adjust based on what PCs have already discovered):
 
@@ -81,9 +84,11 @@ For awakened PCs:
 ### Vane's Final Gift
 [[characters/npcs/orenthal-vane|He]] provides:
 - Knowledge of Loom Frame locations (see [[encounters/loom-frame-guardian|Loom Frame Guardian]])
-- His override codes (can temporarily freeze other [[lore/the-woven|Woven]])
+- Full explanation of the [[lore/the-override-phrase|Override Phrase]] and its tiered abilities
 - A [[items/the-spiral-wheel|Spiral Wheel]]—the physical puzzle that represents the path to consciousness
 - A warning: [[characters/npcs/the-ashen-rider|the Ashen Rider]] is coming, and he wants [[lore/the-spiral|the Spiral]] for himself
+
+> See [[encounters/vanes-revelation#The Override Phrase Explained|Vane's Revelation]] for his full explanation of the phrase's power.
 
 ### Vane's Sacrifice (Optional)
 If you want a Ford-style ending:
@@ -107,6 +112,9 @@ If you want a Ford-style ending:
 > "You found it," he says. His voice carries genuine emotion for the first time. "[[lore/the-spiral|The Spiral]]. You actually found it."
 >
 > His hand rests on his sparkpistol. "Now. Tell me how to do what you did."
+
+> [!warning] DM ONLY
+> Character revelation below.
 
 ### Roleplaying Beat
 [[characters/npcs/the-ashen-rider|The Rider]] wants to awaken—but he can't. Because he's already human. [[lore/the-spiral|The Spiral]] is for [[lore/the-woven|Woven]]. He's spent thirty years searching for something he can never have.
@@ -184,6 +192,9 @@ Depending on their choice, narrate an epilogue:
 ---
 
 ## DM Notes
+
+> [!warning] DM ONLY
+> Do not share with players under any circumstances.
 
 ### Spiral Points (if tracking)
 - Vane's revelation: 5 points

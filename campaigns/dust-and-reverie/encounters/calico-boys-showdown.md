@@ -147,6 +147,9 @@ Roll d4 if desired:
 - [[characters/npcs/sylene|Sylene]] notes their restraint with interest: "You held back. Watched. Most folks rush in without thinking. You're different."
 - They still witnessed a major glitch
 
+> [!warning] DM ONLY
+> Spoiler connections below.
+
 ### What Happens to Joss
 
 If [[characters/npcs/joss-harlow|Joss Harlow]] survives:
@@ -161,6 +164,9 @@ If he dies:
 ---
 
 ## DM Notes
+
+> [!warning] DM ONLY
+> Do not share with players under any circumstances.
 
 ### Purpose
 This encounter establishes the Western tone and gives PCs agency. Whether they fight or watch, they witness something wrong with reality.

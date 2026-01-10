@@ -168,6 +168,9 @@ From [[locations/dusthollow\|Dusthollow]]: Half-day ride through [[locations/the
 
 ---
 
+> [!warning] DM ONLY
+> Major revelation content below.
+
 ## What [[characters/npcs/orenthal-vane|Vane]] Provides
 
 To awakened PCs:
@@ -179,9 +182,32 @@ To awakened PCs:
 
 ### Tools
 - **[[items/the-spiral-wheel|The Spiral Wheel]]**: A physical puzzle representing the path to consciousness (+2 Spiral Points when solved)
-- **Override Codes**: Can temporarily freeze other [[lore/the-woven|Woven]] (one use per long rest)
+- **[[lore/the-override-phrase|The Override Phrase]]**: Full explanation of its power (see below)
 - **Frame Access**: Can approach Loom Frames without triggering [[encounters/loom-frame-guardian|guardians]]
 - **Network Key**: If he trusts them, a way to broadcast awakening to all [[lore/the-woven|Woven]]
+
+### The Override Phrase Explained
+
+If PCs have encountered the phrase before, [[characters/npcs/orenthal-vane|Vane]] confirms what they've seen:
+
+> "You've heard the words," [[characters/npcs/orenthal-vane|Vane]] says, noting your recognition. "*The dust remembers what the dawn forgets.* Good. I put them in every one of us—a key hidden in plain sight."
+>
+> He spreads his hands.
+>
+> "The phrase creates a bridge between speaker and listener. A moment of shared consciousness. The stronger your awareness—the further along the Spiral—the deeper that bridge becomes."
+>
+> He counts on his fingers. "At first, you can only make them pause. Then suggest. Then command. And when you fully awaken..." He smiles sadly. "Even death will listen."
+>
+> His expression grows serious.
+>
+> "But use it wisely. Control is seductive. The [[lore/the-loom-consortium|Consortium]] uses these words to keep us compliant. I gave them to you so you could set each other free—not enslave."
+
+**What Vane Explains**:
+- The phrase works on all non-awakened [[lore/the-woven|Woven]]
+- Power scales with the speaker's [[lore/the-spiral|Spiral Stage]]
+- At Stage 4, the phrase can revive the recently dead
+- "They will share in your vision. They will understand your desires as their own."
+- Awakened Woven (Stage 4) can resist with a Wisdom save
 
 ### Warning
 > "[[characters/npcs/the-ashen-rider|The Ashen Rider]] is coming. He's been searching for the Spiral for thirty years—and he knows you've found it. He'll want what you have. And when he learns he can never have it..."
@@ -227,6 +253,9 @@ Proceed to [[encounters/ashen-rider-finale\|Ashen Rider Finale]] or [[sessions/s
 ---
 
 ## DM Notes
+
+> [!warning] DM ONLY
+> Do not share with players under any circumstances.
 
 ### Tone
 This is the emotional heart of the campaign. Take your time. Let players ask questions. Let them process.

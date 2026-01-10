@@ -176,6 +176,9 @@ If PCs seek out the Sand Walkers or are brought to them:
 
 ## DM Notes
 
+> [!warning] DM ONLY
+> Do not share with players under any circumstances.
+
 ### Purpose
 
 The Sand Walkers serve as:

@@ -49,6 +49,9 @@ For PCs who chose to awaken (Stage 4):
 >
 > "Now. Tell me how to do what you did."
 
+> [!warning] DM ONLY
+> Character revelation below.
+
 ### Roleplaying Beat
 
 This moment matters. [[characters/npcs/the-ashen-rider|The Rider]] isn't just a villain—he's a tragedy.
@@ -227,6 +230,9 @@ Proceed to the [[sessions/session-03-the-spiral#Act 4 The Choice|final choice]].
 ---
 
 ## DM Notes
+
+> [!warning] DM ONLY
+> Do not share with players under any circumstances.
 
 ### Emotional Arc
 This fight should feel different. [[characters/npcs/the-ashen-rider|The Rider]] was untouchable before. Now he's just a man—a dangerous man, but mortal. That shift matters.
