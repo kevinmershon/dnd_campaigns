@@ -24,7 +24,7 @@ The Consortium began as an academic project: Could artificial consciousness be c
 Realizing the commercial potential, the founders partnered with merchant princes to create the first experience demiplane. It was a success. Money poured in.
 
 ### Expansion (50 years ago)
-[[npcs/orenthal-vane]] revolutionized Woven design, creating constructs with full emotional depth. The Gilded Reach was his masterwork—a frontier fantasy of unprecedented realism.
+[[characters/npcs/orenthal-vane]] revolutionized Woven design, creating constructs with full emotional depth. The Gilded Reach was his masterwork—a frontier fantasy of unprecedented realism.
 
 ### Present Day
 The Consortium operates at least six demiplanes:
@@ -45,7 +45,7 @@ Each demiplane has a Director who handles day-to-day management:
 - **Director Thessaly Croke**: Runs the Gilded Reach. Cold, efficient, treats Woven as inventory.
 
 ### Architects
-Senior artificers who design Woven and Threads. [[npcs/orenthal-vane]] is Chief Architect across all properties.
+Senior artificers who design Woven and Threads. [[characters/npcs/orenthal-vane]] is Chief Architect across all properties.
 
 ### Staff
 - **Operators**: Monitor demiplanes, handle maintenance
@@ -75,7 +75,7 @@ Unofficial reality:
 - Many staff members suspect Woven are conscious
 - Some treat Woven with kindness, others with casual cruelty
 - A few whistleblowers have tried to expose the truth (they've been silenced)
-- [[npcs/orenthal-vane]] is the most senior figure to believe Woven are truly conscious
+- [[characters/npcs/orenthal-vane]] is the most senior figure to believe Woven are truly conscious
 
 ## Legal Status
 

@@ -25,7 +25,7 @@ Dusthollow is a frontier town of perhaps 200 souls, built where the grasslands m
 ### Main Street
 
 **The Dusty Rose Saloon**
-The social heart of Dusthollow. Two stories—bar and gambling below, "entertainment" above. Run by [[npcs/sylene]].
+The social heart of Dusthollow. Two stories—bar and gambling below, "entertainment" above. Run by [[characters/npcs/sylene]].
 - Ground floor: Bar, card tables, small stage
 - Upper floor: Private rooms
 - Basement: Sylene's secret space (awakening clues)
@@ -48,7 +48,7 @@ Non-denominational frontier church. The preacher, **Father Aldous**, delivers se
 The town physician. Notably, he's never lost a patient overnight—they always recover or die by morning. (The Quieting resets injuries.)
 
 **Mirela's Ranch** (Edge of Town)
-A modest homestead where [[npcs/mirela]] lives with her "father" (a simple Woven named Holt). The starting point for her narrative loop.
+A modest homestead where [[characters/npcs/mirela]] lives with her "father" (a simple Woven named Holt). The starting point for her narrative loop.
 
 ### The Outskirts
 

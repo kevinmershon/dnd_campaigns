@@ -107,13 +107,13 @@ status: active
 
 | NPC | Status | Relationship to Party | Notes |
 |-----|--------|----------------------|-------|
-| [[npcs/mirela]] | Active | — | |
-| [[npcs/sylene]] | Active | — | |
-| [[npcs/corwin]] | Active | — | |
-| [[npcs/the-ashen-rider]] | Active | — | |
-| [[npcs/orenthal-vane]] | Hidden | — | |
-| [[npcs/desmond-hale]] | Active | — | |
-| [[npcs/joss-harlow]] | Active | — | Potential stray |
+| [[characters/npcs/mirela]] | Active | — | |
+| [[characters/npcs/sylene]] | Active | — | |
+| [[characters/npcs/corwin]] | Active | — | |
+| [[characters/npcs/the-ashen-rider]] | Active | — | |
+| [[characters/npcs/orenthal-vane]] | Hidden | — | |
+| [[characters/npcs/desmond-hale]] | Active | — | |
+| [[characters/npcs/joss-harlow]] | Active | — | Potential stray |
 
 ---
 

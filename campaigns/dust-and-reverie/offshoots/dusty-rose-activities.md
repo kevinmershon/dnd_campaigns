@@ -114,7 +114,7 @@ A gaunt man with thinning hair and nicotine-stained fingers. He plays the same r
 > He looks at you with genuine confusion. "I... I don't..." His hands twitch toward the keys. "I only know these ones, friend. Always have." He sounds uncertain, like he's never been asked before.
 
 *If players physically stop him from playing*:
-> The silence feels *wrong*. The whole saloon seems to hold its breath. Emmett stares at his hands like he doesn't know what to do with them. After a long, uncomfortable moment, [[npcs/sylene|Sylene]] appears. "Let him play," she says quietly. "He gets... confused otherwise."
+> The silence feels *wrong*. The whole saloon seems to hold its breath. Emmett stares at his hands like he doesn't know what to do with them. After a long, uncomfortable moment, [[characters/npcs/sylene|Sylene]] appears. "Let him play," she says quietly. "He gets... confused otherwise."
 
 **Spiral Point**: +1 if players push Emmett and witness his confusion
 
@@ -128,7 +128,7 @@ If players watch Emmett for more than 10 minutes, DC 14 Perception notices:
 
 ## The Working Girls
 
-The Dusty Rose's upper floor hosts "entertainment." [[npcs/sylene|Sylene]] runs this operation with firm rules and genuine care for her employees.
+The Dusty Rose's upper floor hosts "entertainment." [[characters/npcs/sylene|Sylene]] runs this operation with firm rules and genuine care for her employees.
 
 ### The Women
 

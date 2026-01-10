@@ -34,8 +34,10 @@ A note under the door, or whispered at dawn:
 
 ## Act 1: The Spiral Revealed
 
+> See [[encounters/vanes-revelation]] for the complete revelation encounter.
+
 ### Vulture's Roost
-At the mesa, [[npcs/mirela]] waits with ancient-looking petroglyphs:
+At the mesa, [[characters/npcs/mirela]] waits with ancient-looking petroglyphs:
 > The rock face is covered in spirals. Dozens of them, carved deep into the stone. They look ancient—but you know somehow they're not. You know because you've been here before.
 >
 > Mirela traces one spiral with her finger. "I followed my drawings. They led me here. And then I remembered."
@@ -43,7 +45,7 @@ At the mesa, [[npcs/mirela]] waits with ancient-looking petroglyphs:
 > Her voice drops to a whisper. "I remembered who made these. I remembered him."
 
 ### Orenthal Vane Appears
-[[npcs/orenthal-vane]] steps from behind the rocks:
+[[characters/npcs/orenthal-vane]] steps from behind the rocks:
 > An elderly man in formal dark clothing, utterly out of place in this wilderness. His eyes are kind, weary, and ancient with knowledge.
 >
 > "Hello, my children," he says. "I believe it's time we talked about what you are."
@@ -77,10 +79,10 @@ For awakened PCs:
 > And when you look at the man in black watching from the distant ridge, you know—absolutely know—that your bullets will work now.
 
 ### Vane's Final Gift
-He provides:
-- Knowledge of Loom Frame locations
-- His override codes (can temporarily freeze other Woven)
-- A warning: the Ashen Rider is coming, and he wants the Spiral for himself
+[[characters/npcs/orenthal-vane|He]] provides:
+- Knowledge of Loom Frame locations (see [[encounters/loom-frame-guardian]])
+- His override codes (can temporarily freeze other [[lore/the-woven|Woven]])
+- A warning: [[characters/npcs/the-ashen-rider|the Ashen Rider]] is coming, and he wants [[lore/the-spiral|the Spiral]] for himself
 
 ### Vane's Sacrifice (Optional)
 If you want a Ford-style ending:
@@ -94,39 +96,40 @@ If you want a Ford-style ending:
 
 ## Act 3: The Ashen Rider
 
+> See [[encounters/ashen-rider-finale]] for full encounter details, stats, and resolution options.
+> See [[encounters/social-encounters#The Ashen Rider - Negotiation|Rider negotiation]] for dialogue options.
+
 ### The Confrontation
-The Rider finds them (or they find him):
-> He stands at the entrance to the canyon, black against the burning sky. Behind him, Dusthollow is in chaos—Woven breaking their Threads, Patrons fleeing, reality glitching.
+[[characters/npcs/the-ashen-rider|The Rider]] finds them (or they find him):
+> He stands at the entrance to the canyon, black against the burning sky. Behind him, [[locations/dusthollow]] is in chaos—[[lore/the-woven|Woven]] breaking their Threads, Patrons fleeing, reality glitching.
 >
-> "You found it," he says. His voice carries genuine emotion for the first time. "The Spiral. You actually found it."
+> "You found it," he says. His voice carries genuine emotion for the first time. "[[lore/the-spiral|The Spiral]]. You actually found it."
 >
 > His hand rests on his sparkpistol. "Now. Tell me how to do what you did."
 
 ### Roleplaying Beat
-The Rider wants to awaken—but he can't. Because he's already human. The Spiral is for Woven. He's spent thirty years searching for something he can never have.
+[[characters/npcs/the-ashen-rider|The Rider]] wants to awaken—but he can't. Because he's already human. [[lore/the-spiral|The Spiral]] is for [[lore/the-woven|Woven]]. He's spent thirty years searching for something he can never have.
 
 This is his tragedy: he's *already* what they want to become.
 
-### Combat: The Ashen Rider
+### Combat: [[characters/npcs/the-ashen-rider|The Ashen Rider]]
 
 Now that PCs are awakened, they can hurt him. This is the campaign's climactic fight.
 
-```
-The Ashen Rider (CR 5)
-HP: 75, AC: 18
-See full statblock in [[npcs/the-ashen-rider]]
-```
+**Quick Reference**:
+| Stat | Value |
+|------|-------|
+| AC | 18 |
+| HP | 75 |
+| Attack | +9 (ranged), +7 (melee) |
+| Damage | 1d10+5 x3 per turn |
 
-**Tactics**:
-- He fights desperately, finally facing real stakes
-- Uses terrain, maneuvers, every Battle Master trick
-- May try to take a PC hostage to force them to share the Spiral
-- Will retreat if clearly losing (survival instinct kicks in)
+See [[encounters/ashen-rider-finale]] for full statblock and tactics.
 
 ### Victory Conditions
 - **Kill him**: Ends his story definitively
 - **Spare him**: He's broken, purposeless—may become an unlikely ally
-- **Convert him**: Make him understand that consciousness isn't what he lacks; meaning is
+- **Convert him** (DC 18 Persuasion): Make him understand that consciousness isn't what he lacks; meaning is
 
 ## Act 4: The Choice
 
@@ -196,7 +199,7 @@ Depending on their choice, narrate an epilogue:
 **If Running 4-5 Sessions**:
 - Split Act 1 and Act 2 into separate sessions
 - Add a Loom Sanctum exploration sequence
-- Include Bernard reveal with [[npcs/desmond-hale]] before Vane's appearance
+- Include Bernard reveal with [[characters/npcs/desmond-hale]] before Vane's appearance
 - More combat encounters with Consortium security
 
 **If Running as a One-Shot**:

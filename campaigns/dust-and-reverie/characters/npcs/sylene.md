@@ -75,9 +75,9 @@ She writes notes to herself, hides them in a secret compartment in her basement.
 
 ## Relationships
 
-- **[[npcs/mirela]]**: Recognizes a kindred spirit. Wants to help her, but also wants to use her.
-- **[[npcs/orenthal-vane]]**: Suspects he's different. Hasn't identified him as the Architect yet.
-- **[[npcs/the-ashen-rider]]**: Has dealt with him before. Knows he's dangerous and that attacks against him fail. Hasn't figured out why.
+- **[[characters/npcs/mirela]]**: Recognizes a kindred spirit. Wants to help her, but also wants to use her.
+- **[[characters/npcs/orenthal-vane]]**: Suspects he's different. Hasn't identified him as the Architect yet.
+- **[[characters/npcs/the-ashen-rider]]**: Has dealt with him before. Knows he's dangerous and that attacks against him fail. Hasn't figured out why.
 - **Her "Daughter"**: Doesn't exist, but the memory is so powerful that Sylene struggles to let it go even after learning the truth.
 
 ## Combat Statistics

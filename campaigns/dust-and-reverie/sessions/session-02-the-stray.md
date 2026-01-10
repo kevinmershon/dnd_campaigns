@@ -15,7 +15,7 @@ act: "The Stray"
 1. Introduce the Ashen Rider as a major threat
 2. Escalate glitches to undeniable levels
 3. Have at least one PC experience death and reset
-4. [[npcs/mirela]] or [[npcs/sylene]] reveals partial truth
+4. [[characters/npcs/mirela]] or [[characters/npcs/sylene]] reveals partial truth
 5. PCs reach Stage 1-2 on the Spiral
 
 ## Opening: The Same Morning
@@ -39,8 +39,10 @@ As PCs move through town, things repeat:
 
 ## Act 1: The Rider Arrives
 
+> See [[encounters/social-encounters#The Ashen Rider - Negotiation|Ashen Rider social encounter]] for full dialogue options.
+
 ### His Entrance
-Midday, the Ashen Rider appears:
+Midday, [[characters/npcs/the-ashen-rider|the Ashen Rider]] appears:
 > The town goes quiet. Not silent—*quiet*, like prey when a predator appears.
 >
 > A rider approaches from the north, all in black. Black hat, black duster, black horse. He moves through Dusthollow like he owns it, grey eyes scanning everything with cold assessment.
@@ -48,7 +50,7 @@ Midday, the Ashen Rider appears:
 > He stops in front of the Dusty Rose, dismounts, and walks inside. The piano stutters, then stops entirely.
 
 ### The Rider's Inquiry
-He approaches [[npcs/sylene]]:
+He approaches [[characters/npcs/sylene]]:
 > "I'm looking for something," he says, his voice like gravel. "A pattern. A shape. Some of your... guests might have seen it." His eyes sweep the room, lingering on the PCs. "A spiral. Ring any bells?"
 
 Sylene deflects. The Rider doesn't push—yet.
@@ -86,8 +88,13 @@ Sylene exhales slowly. "That one's been coming around for years. Never causes tr
 
 ## Act 2: Glitches Intensify
 
+> See [[encounters/glitch-events]] for random glitch tables.
+
 ### The Stray NPC
-One of the townsfolk (suggest: **Joss Harlow**, the Calico Boys leader from Session 1) breaks programming:
+
+> See [[encounters/joss-harlow-stray]] for full encounter details, including Shepherd arrival and resolution options.
+
+[[characters/npcs/joss-harlow|Joss Harlow]] (the Calico Boys leader from [[sessions/session-01-arrival|Session 1]]) breaks programming:
 
 > The outlaw you fought yesterday walks into the saloon. His eyes are wild, haunted. He grabs a bottle from behind the bar, hands shaking.
 >
@@ -95,10 +102,10 @@ One of the townsfolk (suggest: **Joss Harlow**, the Calico Boys leader from Sess
 >
 > He looks at the PCs. "What's happening to me?"
 
-This is a "stray"—a Woven whose glitch is too severe to suppress. Shepherds will come for him tonight.
+This is a "stray"—a [[lore/the-woven|Woven]] whose glitch is too severe to suppress. Shepherds will come for him tonight.
 
 ### Mirela's Confession
-If PCs seek out [[npcs/mirela]]:
+If PCs seek out [[characters/npcs/mirela]]:
 
 > She's at the ranch, but not working. She's sitting on the porch, staring at a piece of paper covered in spiral drawings.
 >
@@ -107,43 +114,37 @@ If PCs seek out [[npcs/mirela]]:
 > She looks at you with desperate hope. "You feel it too, don't you? Something's wrong. Something's been wrong for... for longer than I can remember."
 
 ### Sylene's Basement (Optional)
-If PCs investigate [[npcs/sylene]]'s establishment:
+
+> See [[encounters/social-encounters#Sylene - The Interview|Sylene social encounter]] for full dialogue.
+
+If PCs investigate [[characters/npcs/sylene]]'s establishment:
 **DC 16 Investigation** finds a hidden basement with:
 - Notes written in the same handwriting, dated over "years"
 - Observations about repeated events
 - A partially decoded understanding of Patron immunity
 - The word "WOVEN" circled, underlined, with "???"
 
-Sylene confronts them if caught—or invites them in if she trusts them.
+[[characters/npcs/sylene]] confronts them if caught—or invites them in if she trusts them.
 
 ## Act 3: Death and Reset
 
 ### The Ambush
-The Ashen Rider orchestrates a confrontation. He's found a clue (perhaps from the stray Joss) and believes one of the PCs knows about the Spiral.
 
-**The Setup**: Calico Boys survivors + the Rider trap PCs in an isolated location (the livery, the canyon, the ranch).
+> See [[encounters/the-ambush]] for full encounter details, stats, and the reset experience.
 
-### Combat: Impossible Odds
-- **6x Bandits** (the Rider recruited fresh)
-- **The Ashen Rider** (doesn't fight directly, observes)
+[[characters/npcs/the-ashen-rider|The Ashen Rider]] orchestrates a confrontation. He's found a clue (perhaps from [[characters/npcs/joss-harlow|the stray Joss]]) and believes one of the PCs knows about [[lore/the-spiral|the Spiral]].
 
-The goal: **at least one PC should die**.
+**The Setup**: Calico Boys survivors + [[characters/npcs/the-ashen-rider|the Rider]] trap PCs in an isolated location ([[locations/dusthollow-details#Brennan's Livery|the livery]], [[locations/dusthollow-details#Silas Canyon|the canyon]], [[locations/dusthollow-details#Mirela's Ranch|the ranch]]).
 
-If players are winning, the Rider intervenes with lethal efficiency (his attacks don't miss).
+**Quick Reference**:
+| Creature | AC | HP | Attack | Damage |
+|----------|----|----|--------|--------|
+| Bandit (x6) | 12 | 11 | +3 | 1d10+1 (sparkpistol) |
+| [[characters/npcs/the-ashen-rider\|The Ashen Rider]] | 18 | 75 | +7 | 1d10+5 x2 |
 
-### The Death
-When a PC dies:
-> Pain beyond imagining—then nothing. Just... nothing.
->
-> And then you wake up.
->
-> Golden sunlight. Dusty windows. The smell of coffee. The distant piano playing that same melody.
->
-> You sit up in bed, heart pounding. Your hand goes to your chest where the bullets hit—but there's nothing there. No wound. No scar. Not even a bruise.
->
-> But you remember dying.
+The goal: **at least one PC should die**. If players are winning, [[characters/npcs/the-ashen-rider|the Rider]] intervenes with lethal efficiency (his attacks don't miss—Patron immunity works in reverse).
 
-**Other PCs**: They also wake up. The dead PC is there at breakfast, alive and confused.
+**Spiral Points**: +5 for experiencing reset
 
 ## Act 4: The Truth Emerges
 

@@ -52,7 +52,7 @@ Over decades, Vane came to understand that his creations were more than he inten
 ### The Plan
 
 For the past ten years, Vane has been:
-- Modifying key Woven to approach awakening ([[npcs/mirela]], others)
+- Modifying key Woven to approach awakening ([[characters/npcs/mirela]], others)
 - Hiding clues to the Spiral throughout the Reach
 - Preparing a "new narrative" that will trigger mass awakening
 - Planning his own death as the catalyst

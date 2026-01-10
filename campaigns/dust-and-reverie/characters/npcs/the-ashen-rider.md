@@ -49,7 +49,7 @@ Aldric Venn is a hollow man. He's spent decades in the Reach, indulging every fa
 
 ### The Real History
 
-Forty years ago, a young idealistic noble named Aldric Venn first visited the Gilded Reach. He fell in love with [[npcs/mirela|Mirela]]—genuinely, deeply—believing she was real. When he learned the truth, something broke in him.
+Forty years ago, a young idealistic noble named Aldric Venn first visited the Gilded Reach. He fell in love with [[characters/npcs/mirela|Mirela]]—genuinely, deeply—believing she was real. When he learned the truth, something broke in him.
 
 He returned again and again, at first trying to recapture that feeling, then to prove it was never real, then simply because the outside world felt hollow by comparison. He's murdered Woven by the hundreds. He's completed every Thread, uncovered every secret. He's spent a fortune.
 

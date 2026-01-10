@@ -18,6 +18,8 @@ act: "These Violent Delights"
 4. Complete a satisfying "Western" adventure hook
 5. End with first significant déjà vu moment
 
+> See [[offshoots/dusthollow-arrival]] for detailed exploration of the town before reaching the Dusty Rose.
+
 ## Opening Scene: The Ride In
 
 ### Read-Aloud
@@ -41,7 +43,7 @@ Allow each player to describe their character and provide a reason for coming to
 ### The Dusty Rose
 Players likely head to the saloon. Describe:
 - Piano playing (same tune as every day, forever)
-- [[npcs/sylene]] holding court, greeting newcomers
+- [[characters/npcs/sylene]] holding court, greeting newcomers
 - Card games, drinking, ambient frontier atmosphere
 
 > See [[offshoots/dusty-rose-activities]] for detailed saloon activities: card games, drinks, the piano player, working girls, and ambient NPCs.
@@ -61,67 +63,47 @@ Let players explore before the plot kicks in. Options:
 > See [[offshoots/npc-conversations]] for detailed dialogue options and DC checks for deeper conversations with Mirela, Sylene, Corwin, and others.
 
 ### First Glitch (Subtle)
+
+> See [[encounters/glitch-events#Scripted Glitches|scripted glitches]] for the full list.
+
 As players settle in:
 > The piano player hits a wrong note. For just a moment, his hands freeze above the keys. Then he continues, playing the exact same melody from the beginning, as if nothing happened.
 
-No one else notices. DC 15 Perception to catch it happening.
+No one else notices. DC 15 Perception to catch it happening. (+1 Spiral Point)
 
 ### Meeting Mirela
-[[npcs/mirela]] enters the saloon:
+[[characters/npcs/mirela]] enters the saloon:
 > The doors swing open and a young woman enters—golden-brown hair in a braid, blue eyes that seem to look through things rather than at them. She moves with purpose toward the bar, ordering supplies.
 >
 > For just a moment, she glances at you. Her brow furrows slightly, as if trying to place a half-forgotten face.
 
-If PCs approach, she's friendly but distracted. She mentions trouble with rustlers at the ranch.
+If PCs approach, she's friendly but distracted. She mentions trouble with rustlers at [[locations/dusthollow-details#Mirela's Ranch|the ranch]].
 
 ### Corwin Arrives
-[[npcs/corwin]] follows shortly:
+[[characters/npcs/corwin]] follows shortly:
 > A lean man in a black duster enters, scanning the room with practiced ease. His hand rests casually near his holstered sparkpistol. He spots the young woman and relaxes visibly, moving to stand near her.
 
 ## Act 2: The Hook
 
 ### The Calico Boys
-A commotion outside—the **Calico Boys** (4 bandits) are threatening **Harken's General Store**.
 
-**Leader ([[npcs/joss-harlow|Joss Harlow]])**:
+> See [[encounters/calico-boys-showdown]] for full encounter details, stats, and outcomes.
+
+A commotion outside—the **Calico Boys** (4 bandits) are threatening [[characters/npcs/dusthollow-townsfolk#Harken|Harken's General Store]].
+
+**Leader ([[characters/npcs/joss-harlow|Joss Harlow]])**:
 > A scarred man with a calico bandana spits on the boardwalk. "Harken! You owe for protection. Pay up or we start breaking things. Starting with that pretty display window."
 
 This is a classic Western setup—do the PCs intervene?
 
-### If PCs Intervene: Combat
+**Quick Reference**:
+| Creature | AC | HP | Attack | Damage |
+|----------|----|----|--------|--------|
+| Bandit (x4) | 12 | 11 | +3 | 1d10+1 (sparkpistol) |
 
-**4x Bandits** (MM p. 343)
-- AC 12, HP 11
-- Sparkpistol +3, 1d10+1 piercing
-- Scimitar +3, 1d6+1 slashing
+[[characters/npcs/corwin]] joins if PCs engage. [[characters/npcs/mirela]] takes cover but will help wounded after.
 
-Corwin joins if PCs engage. Mirela takes cover but will help wounded after.
-
-**Second Glitch (During Combat)**:
-If a PC takes damage:
-> Pain flares through you—and for an instant, you remember *dying*. Here, in this street, bullets in your chest. Then the memory's gone, and you're still standing, still fighting.
-
-First Spiral Point earned.
-
-### If PCs Don't Intervene: Observation
-
-Maybe they're cautious. Maybe they're cowardly. Maybe they just want to see how things play out. That's fine—the glitch still happens.
-
-> You watch from the saloon doorway as the confrontation unfolds. Corwin steps out, hand on his pistol. Words are exchanged. Then guns clear leather.
->
-> The fight is brief and brutal. Corwin drops two of them before taking a bullet to the shoulder. One of the outlaws grabs Mirela—
->
-> And then everything *stops*.
->
-> Not slows. *Stops.* The dust hangs frozen in the air. The gunsmoke becomes a still sculpture. Mirela's scream cuts off mid-note. For three heartbeats, the world is a painting.
->
-> Then reality shudders back into motion. The outlaw releases Mirela, clutching his head like a man with a sudden migraine. "What—what was I—" He stumbles, confused. His companions grab him and flee. No one else seems to have noticed the freeze.
->
-> Corwin, bleeding, holsters his weapon. "That was... strange. Felt like I blinked and lost a second."
-
-**Spiral Points**: +2 for witnessing a major glitch
-
-**Aftermath**: The town still treats Corwin as the hero. PCs who didn't act may receive cool looks from some townsfolk, but Sylene notes their restraint with interest: "You held back. Watched. Most folks rush in without thinking. You're different."
+**Glitch Trigger**: See [[encounters/glitch-events]] for the combat flashback (+1 Spiral Point) or time freeze (+2 if observing).
 
 ## Act 3: Aftermath
 
@@ -141,11 +123,13 @@ Social time. Key beats:
 If PCs helped, she's grateful but still distracted:
 > "I keep having this dream," she admits, staring into her drink. "That I've lived this day before. Hundreds of times. Isn't that strange?"
 
-**Third Glitch (Major)**:
+**Third Glitch (Major)** (see [[encounters/glitch-events]]):
 The clock tower strikes 9 PM:
 > The clock tower chimes—once, twice... and then stops. The whole town seems to hold its breath. For three heartbeats, nothing moves. Not the wind. Not the people. Even the firelight freezes.
 >
 > Then reality shudders back into motion, and no one seems to notice but you.
+
+(+2 Spiral Points)
 
 ## Closing: The Night
 

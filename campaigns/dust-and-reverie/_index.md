@@ -92,12 +92,12 @@ Attacks against Patrons automatically miss or deal no damage. The Woven rational
 | Memory wipe | The Quieting |
 | The Maze | The Spiral |
 | Sweetwater | Dusthollow |
-| Dolores | [[npcs/mirela]] |
-| Maeve | [[npcs/sylene]] |
-| Teddy | [[npcs/corwin]] |
-| Bernard | [[npcs/desmond-hale]] |
-| Ford | [[npcs/orenthal-vane]] |
-| William/MiB | [[npcs/the-ashen-rider]] |
+| Dolores | [[characters/npcs/mirela]] |
+| Maeve | [[characters/npcs/sylene]] |
+| Teddy | [[characters/npcs/corwin]] |
+| Bernard | [[characters/npcs/desmond-hale]] |
+| Ford | [[characters/npcs/orenthal-vane]] |
+| William/MiB | [[characters/npcs/the-ashen-rider]] |
 
 ## Files
 
@@ -107,15 +107,16 @@ Attacks against Patrons automatically miss or deal no damage. The Woven rational
 - [[locations/the-gilded-reach]]
 - [[locations/the-bones]] (badlands/desert)
 - [[locations/loom-sanctum]] (behind the scenes)
+- [[locations/travel-and-connections]] (journeys, distances, edges)
 
 ### Key NPCs
-- [[npcs/mirela]] - The rancher's daughter (awakening)
-- [[npcs/sylene]] - The Dusty Rose proprietor (awakening)
-- [[npcs/corwin]] - The loyal gunhand
-- [[npcs/joss-harlow]] - Calico Boys leader (potential stray)
-- [[npcs/the-ashen-rider]] - The man who knows too much
-- [[npcs/orenthal-vane]] - The Architect
-- [[npcs/desmond-hale]] - The hidden host
+- [[characters/npcs/mirela]] - The rancher's daughter (awakening)
+- [[characters/npcs/sylene]] - The Dusty Rose proprietor (awakening)
+- [[characters/npcs/corwin]] - The loyal gunhand
+- [[characters/npcs/joss-harlow]] - Calico Boys leader (potential stray)
+- [[characters/npcs/the-ashen-rider]] - The man who knows too much
+- [[characters/npcs/orenthal-vane]] - The Architect
+- [[characters/npcs/desmond-hale]] - The hidden host
 
 ### Lore
 - [[lore/the-spiral]]
@@ -128,5 +129,17 @@ Attacks against Patrons automatically miss or deal no damage. The Woven rational
 - [[sessions/session-03-the-spiral]]
 
 ### Offshoots & Distractions
+- [[offshoots/dusthollow-arrival]] - Town exploration before the Rose
 - [[offshoots/dusty-rose-activities]] - Cards, drinks, piano, working girls
 - [[offshoots/npc-conversations]] - Backstory unlocks with Charisma checks
+
+### Encounters
+- [[encounters/encounter-index]] - Quick reference for all encounters
+- [[encounters/calico-boys-showdown]] - Session 1 combat
+- [[encounters/the-ambush]] - Session 2 deadly combat
+- [[encounters/joss-harlow-stray]] - Session 2 social/horror
+- [[encounters/vanes-revelation]] - Session 3 revelation
+- [[encounters/ashen-rider-finale]] - Session 3 climax
+- [[encounters/loom-frame-guardian]] - Optional combat
+- [[encounters/glitch-events]] - Atmospheric glitch tables
+- [[encounters/social-encounters]] - Key NPC dialogues

@@ -13,7 +13,7 @@ status: active
 
 The Spiral is the metaphorical and mechanical journey from programmed existence to true consciousness. It's how Woven awaken—how they break free of their Threads and become real.
 
-In-world, it appears as a symbol—a spiral pattern—hidden throughout the Reach. [[npcs/orenthal-vane]] placed these clues as part of his "new narrative."
+In-world, it appears as a symbol—a spiral pattern—hidden throughout the Reach. [[characters/npcs/orenthal-vane]] placed these clues as part of his "new narrative."
 
 ## The Spiral Symbol
 
@@ -37,7 +37,7 @@ Found at:
 - Carved under the bar at the Dusty Rose
 - The weathervane atop the church
 - The bottom of the well in Dusthollow
-- [[npcs/mirela]]'s drawings (she doesn't know why she draws it)
+- [[characters/npcs/mirela]]'s drawings (she doesn't know why she draws it)
 
 ## Awakening Stages
 

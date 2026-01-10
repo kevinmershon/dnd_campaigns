@@ -30,7 +30,7 @@ Use these tables when players engage key NPCs in conversation. Higher DCs reveal
 | Her father | "Pa's a good man. Simple. Happy with a hard day's work and a quiet evening. Sometimes I envy that." |
 | Dusthollow | "It's home. Always has been. Though lately I find myself looking at the horizon more than I used to." |
 | The Dusty Rose | "Sylene's been kind to me. She doesn't treat me like a farmer's daughter. She sees... something else, I think." |
-| [[npcs/corwin\|Corwin]] | *She blushes slightly.* "He's a good man. Loyal. I don't know why he stays, honestly. There's nothing for him here but... well, but me, I suppose." |
+| [[characters/npcs/corwin\|Corwin]] | *She blushes slightly.* "He's a good man. Loyal. I don't know why he stays, honestly. There's nothing for him here but... well, but me, I suppose." |
 
 ### Building Trust (DC 14 Persuasion or after significant shared experience)
 

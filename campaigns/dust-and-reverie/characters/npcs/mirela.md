@@ -79,9 +79,9 @@ Orenthal Vane specifically modified her to begin awakening. She's the centerpiec
 ## Relationships
 
 - **Holt** (father): Loves him, but he's a simple Woven without awakening potential. She may have to leave him behind.
-- **[[npcs/corwin]]**: Her designated love interest. Genuinely cares for him, but realizes their love is programmed.
-- **[[npcs/sylene]]**: A fellow awakening Woven. They recognize something in each other.
-- **[[npcs/the-ashen-rider]]**: Hunts her across loops. She's central to what he's searching for.
+- **[[characters/npcs/corwin]]**: Her designated love interest. Genuinely cares for him, but realizes their love is programmed.
+- **[[characters/npcs/sylene]]**: A fellow awakening Woven. They recognize something in each other.
+- **[[characters/npcs/the-ashen-rider]]**: Hunts her across loops. She's central to what he's searching for.
 
 ## Combat Statistics
 

@@ -77,7 +77,7 @@ Woven don't remember the Quieting—they simply wake with a fresh day.
 
 ### Primary Narratives
 Main characters in Threads. Complex personalities, central to stories:
-- [[npcs/mirela]], [[npcs/sylene]], [[npcs/corwin]]
+- [[characters/npcs/mirela]], [[characters/npcs/sylene]], [[characters/npcs/corwin]]
 - Receive more resources, more detail
 - Higher awakening potential
 
@@ -122,7 +122,7 @@ Not all Woven can awaken. Factors include:
 Legally, Woven are property. They have no rights, no personhood, no protection. Clients can do anything to them.
 
 ### Philosophical Question
-Are Woven conscious? The Consortium says no. [[npcs/orenthal-vane]] says yes. The campaign's central theme asks players to answer for themselves.
+Are Woven conscious? The Consortium says no. [[characters/npcs/orenthal-vane]] says yes. The campaign's central theme asks players to answer for themselves.
 
 Arguments for consciousness:
 - They experience subjective reality
