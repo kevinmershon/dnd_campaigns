@@ -75,7 +75,7 @@ No one else notices. DC 15 Perception to catch it happening. (+1 Spiral Point)
 [[characters/npcs/mirela|Mirela]] enters the saloon:
 > The doors swing open and a young woman enters—golden-brown hair in a braid, blue eyes that seem to look through things rather than at them. She moves with purpose toward the bar, ordering supplies.
 >
-> For just a moment, she glances at you. Her brow furrows slightly, as if trying to place a half-forgotten face.
+> For just a moment, she glances at you. Her brow furrows slightly, as if trying to place a half-forgotten face. A worn leather satchel hangs at her side—inside, a [[items/mirelas-sketchbook|sketchbook]] she guards jealously.
 
 If PCs approach, she's friendly but distracted. She mentions trouble with rustlers at [[locations/dusthollow-details#Mirela's Ranch|the ranch]].
 
@@ -155,9 +155,13 @@ As PCs prepare to sleep:
 
 ### Foreshadowing Planted
 - [[characters/npcs/sylene|Sylene's]] knowing comment
-- [[characters/npcs/mirela|Mirela's]] unease
+- [[characters/npcs/mirela|Mirela's]] unease and her [[items/mirelas-sketchbook|mysterious sketchbook]]
 - The frozen moment
 - PCs can't remember their journey
+
+### Optional Content
+- **[[characters/npcs/rusty-cogwell|Rusty Cogwell]]**: A malfunctioning tinkerer on the stagecoach or in town—foreshadows the [[items/the-gilded-core|Gilded Core]] subplot
+- **[[items/the-spiral-wheel|Spiral Wheel]]**: Hidden in Sylene's basement (DC 18 Investigation to find)
 
 ### Next Session Setup
 - The Ashen Rider arrives

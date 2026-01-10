@@ -34,12 +34,14 @@ An "abandoned" silver mine that goes deep. At the lowest level, concealed behind
 ### The Devil's Garden
 A forest of hoodoo rock formations that create a natural maze. Woven say it's haunted—actually, reality is thin here, and voices from other Threads (past narrative versions) bleed through.
 
+The [[items/whispering-totems#The Sand Walkers|Sand Walkers]]—a tribe of kobolds—maintain a shrine here. They worship the "Sky Gods" (Consortium maintenance workers) and carve [[items/whispering-totems|Whispering Totems]] depicting what they've witnessed.
+
 ### The Boundary
 The northern edge of the Reach. Woven feel an instinctive aversion to approaching. The world becomes geometrically wrong—repeating patterns, impossible distances. Awakened characters can perceive a shimmering wall.
 
 ## Encounters
 
-| d6 | Encounter |
+| d8 | Encounter |
 |----|-----------|
 | 1 | Calico Boys patrol (4 bandits) |
 | 2 | Vultures circling something fresh |
@@ -47,6 +49,8 @@ The northern edge of the Reach. Woven feel an instinctive aversion to approachin
 | 4 | Abandoned campsite with unsettling journal |
 | 5 | Strange traveler who speaks in riddles (Patron on a side quest) |
 | 6 | Reality glitch—frozen moment, repeated sound |
+| 7 | [[items/whispering-totems#The Sand Walkers\|Sand Walker]] scout—drops a [[items/whispering-totems\|Whispering Totem]] if startled |
+| 8 | [[items/whispering-totems#The Sand Walkers\|Sand Walker]] shrine with offerings and totems |
 
 ## Hidden Details
 
@@ -70,3 +74,12 @@ Ancient-looking (actually placed by Vane) spiral symbols appear at:
 - Dusthollow to the Bones edge: 4 hours on horseback
 - Navigating to the Hideout: DC 14 Survival check, or get lost (1d4 hours wasted)
 - Finding the mine: Requires a guide, clue, or DC 18 Investigation
+- Finding the Sand Walker caves: DC 16 Survival, or follow a [[items/whispering-totems#The Sand Walkers|Sand Walker]] scout
+
+---
+
+## The Sand Walkers
+
+A tribe of ~40 kobolds who live in the deep canyons. Unlike [[lore/the-woven|Woven]], they're naturally occurring creatures the [[lore/the-loom-consortium|Consortium]] never removed. They've observed the maintenance cycles for generations and worship the "Sky Gods."
+
+See [[items/whispering-totems|Whispering Totems]] for their beliefs, the totems they carve, and encounters with Elder Skrix.

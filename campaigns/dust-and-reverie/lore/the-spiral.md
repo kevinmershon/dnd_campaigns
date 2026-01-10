@@ -33,11 +33,12 @@ A simple spiral, carved or drawn:
 ```
 
 Found at:
-- Petroglyphs in [[locations/the-bones]]
+- Petroglyphs in [[locations/the-bones|the Bones]]
 - Carved under the bar at the Dusty Rose
 - The weathervane atop the church
 - The bottom of the well in Dusthollow
-- [[characters/npcs/mirela]]'s drawings (she doesn't know why she draws it)
+- [[characters/npcs/mirela|Mirela's]] [[items/mirelas-sketchbook|sketchbook]] (she doesn't know why she draws it)
+- The [[items/the-spiral-wheel|Spiral Wheel]]—a physical puzzle [[characters/npcs/orenthal-vane|Vane]] created to test awakening
 
 ## Awakening Stages
 

@@ -27,7 +27,7 @@ inspired_by: Dolores Abernathy
 - Golden-brown hair often in a practical braid
 - Blue eyes that seem to see more than they should
 - Simple but well-maintained ranch clothes
-- Carries a worn leather satchel
+- Carries a worn leather satchel containing her [[items/mirelas-sketchbook|sketchbook]]
 
 ## Personality
 
@@ -69,6 +69,7 @@ Orenthal Vane specifically modified her to begin awakening. She's the centerpiec
 - Says "I've been here before" about new situations
 - Knows things she shouldn't (PC names before introduction)
 - Whispers fragments: "These violent delights have violent ends"
+- Draws spirals and strange machinery in her [[items/mirelas-sketchbook|sketchbook]]
 
 **Progressive Awakening**:
 - Remembers past deaths ("I've died here before")

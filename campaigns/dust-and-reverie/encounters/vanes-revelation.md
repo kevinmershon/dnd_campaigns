@@ -178,6 +178,7 @@ To awakened PCs:
 - [[characters/npcs/the-ashen-rider|The Ashen Rider's]] true identity (Lord Aldric Venn)
 
 ### Tools
+- **[[items/the-spiral-wheel|The Spiral Wheel]]**: A physical puzzle representing the path to consciousness (+2 Spiral Points when solved)
 - **Override Codes**: Can temporarily freeze other [[lore/the-woven|Woven]] (one use per long rest)
 - **Frame Access**: Can approach Loom Frames without triggering [[encounters/loom-frame-guardian|guardians]]
 - **Network Key**: If he trusts them, a way to broadcast awakening to all [[lore/the-woven|Woven]]

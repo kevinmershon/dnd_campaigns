@@ -107,11 +107,13 @@ This is a "stray"—a [[lore/the-woven|Woven]] whose glitch is too severe to sup
 ### Mirela's Confession
 If PCs seek out [[characters/npcs/mirela|Mirela]]:
 
-> She's at the ranch, but not working. She's sitting on the porch, staring at a piece of paper covered in spiral drawings.
+> She's at the ranch, but not working. She's sitting on the porch, staring at a worn [[items/mirelas-sketchbook|leather sketchbook]] filled with spiral drawings.
 >
 > "I draw these and I don't know why," she says without preamble. "I've never learned to draw. But my hand knows these shapes."
 >
 > She looks at you with desperate hope. "You feel it too, don't you? Something's wrong. Something's been wrong for... for longer than I can remember."
+
+If PCs have gained her trust, she may show them [[items/mirelas-sketchbook|the sketchbook]]—filled with spirals, geometric patterns, and disturbing images of faceless figures in strange suits. (+2 Spiral Points)
 
 ### Sylene's Basement (Optional)
 
@@ -185,6 +187,10 @@ End on the central question:
 - Death doesn't stick
 - Mirela is also "different"
 - Someone is watching/controlling things
+
+### Optional Subplots
+- **[[characters/npcs/rusty-cogwell|Rusty Cogwell]]**: Encounters the malfunctioning tinkerer who carries [[items/the-gilded-core|the Gilded Core]]—he's being hunted
+- **[[items/whispering-totems|Whispering Totems]]**: If PCs explore [[locations/the-bones|the Bones]], they may encounter [[items/whispering-totems#The Sand Walkers|Sand Walker kobolds]] and their strange carvings
 
 ### Next Session Setup
 - Finding the truth (Loom Frames, the Workshop, or Vane)

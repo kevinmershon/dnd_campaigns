@@ -82,6 +82,7 @@ For awakened PCs:
 [[characters/npcs/orenthal-vane|He]] provides:
 - Knowledge of Loom Frame locations (see [[encounters/loom-frame-guardian|Loom Frame Guardian]])
 - His override codes (can temporarily freeze other [[lore/the-woven|Woven]])
+- A [[items/the-spiral-wheel|Spiral Wheel]]—the physical puzzle that represents the path to consciousness
 - A warning: [[characters/npcs/the-ashen-rider|the Ashen Rider]] is coming, and he wants [[lore/the-spiral|the Spiral]] for himself
 
 ### Vane's Sacrifice (Optional)
@@ -202,6 +203,8 @@ Depending on their choice, narrate an epilogue:
 - Add a Loom Sanctum exploration sequence
 - Include Bernard reveal with [[characters/npcs/desmond-hale|Desmond Hale]] before Vane's appearance
 - More combat encounters with Consortium security
+- Pursue the [[items/the-gilded-core|Gilded Core]] subplot with [[characters/npcs/rusty-cogwell|Rusty Cogwell]]
+- Explore [[items/whispering-totems#The Sand Walkers|the Sand Walker tribe]] in [[locations/the-bones|the Bones]]
 
 **If Running as a One-Shot**:
 - Begin in media res with glitches already happening
