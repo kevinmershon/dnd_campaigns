@@ -91,6 +91,18 @@ Each PC can contribute to helping Mirela process her fractured memories. This is
 
 (+3 Spiral Points for PCs who helped her through this)
 
+### Joss Never Arrived
+
+If [[characters/npcs/joss-harlow|Joss]] was supposed to meet them:
+
+> As the evening wears on, [[characters/npcs/corwin|Corwin]] glances at the door for the third time. "The outlaw. He said he'd be here within the hour."
+>
+> The hour passed long ago. The night is deep now, and Joss never came.
+
+[[characters/npcs/mirela|Mirela]] frowns. "Something's wrong. He was terrified, but he wanted answers. He wouldn't just... run."
+
+**What Happened**: [[characters/npcs/desmond-hale|Desmond Hale]] intercepted Joss before he could leave town. The deputy used the [[lore/the-override-phrase|Override Phrase]] to pacify the "stray" and took him to the jail for observation. Standard protocol for behavioral anomalies.
+
 ---
 
 ## Opening: The Morning After (Day 3)
@@ -110,18 +122,6 @@ For the first time, PCs remember the night clearly:
 > "I dreamed of the place in my drawing," she says. "I know where it is now. It's real—Vulture's Roost, in the Bones. And there's someone waiting there."
 >
 > She hesitates. "I think he's been waiting a very long time."
-
-### Joss Never Arrived
-
-If [[characters/npcs/joss-harlow|Joss]] was supposed to meet them:
-
-> As the evening wears on, [[characters/npcs/corwin|Corwin]] glances at the door for the third time. "The outlaw. He said he'd be here within the hour."
->
-> The hour passed long ago. The night is deep now, and Joss never came.
-
-[[characters/npcs/mirela|Mirela]] frowns. "Something's wrong. He was terrified, but he wanted answers. He wouldn't just... run."
-
-**What Happened**: [[characters/npcs/desmond-hale|Desmond Hale]] intercepted Joss before he could leave town. The deputy used the [[lore/the-override-phrase|Override Phrase]] to pacify the "stray" and took him to the jail for observation. Standard protocol for behavioral anomalies.
 
 ---
 
@@ -260,7 +260,7 @@ Those who accept reach **Stage 4: Awake**.
 For awakened PCs:
 > The world looks different now. You can see the edges—where the sky meets a geometric pattern that doesn't belong. You can feel the Loom Frames humming beneath the earth.
 >
-> And when you look at the man in black watching from the distant ridge, you know—absolutely know—that your bullets will work now.
+> And when you look at the man in black watching from the distant ridge, you know—absolutely know—that your weapons will work against him now.
 
 ### Vane's Final Gift
 [[characters/npcs/orenthal-vane|He]] provides:
@@ -287,12 +287,28 @@ If you want a Ford-style ending:
 > See [[encounters/social-encounters#The Ashen Rider - Negotiation|Rider negotiation]] for dialogue options.
 
 ### The Confrontation
-[[characters/npcs/the-ashen-rider|The Rider]] finds them (or they find him):
-> He stands at the entrance to the canyon, black against the burning sky. Behind him, [[locations/dusthollow|Dusthollow]] is in chaos—[[lore/the-woven|Woven]] breaking their Threads, Patrons fleeing, reality glitching.
+
+The showdown happens on Main Street—and the whole town is watching.
+
+> [!note] Vane's Final Orchestration
+> This is no accident. Vane's "new narrative" gathered every Woven in Dusthollow to witness this moment. The townsfolk line the boardwalks, frozen in place, waiting for something they don't understand. Sylene. Harken. Doc Mercer. The Garrett brothers. Even Ma Pickett. All of them, silent, watching.
+>
+> Vane gave the PCs an army. They just need to realize it.
+
+[[characters/npcs/the-ashen-rider|The Rider]] stands alone in the center of the street:
+> The man in black waits in the dust, black duster stirring in the wind. Behind him, the sun hangs low and red. Around you, the entire town has gathered—dozens of faces, silent, watching from porches and windows and the middle of the street.
 >
 > "You found it," he says. His voice carries genuine emotion for the first time. "[[lore/the-spiral|The Spiral]]. You actually found it."
 >
-> His hand rests on his sparkpistol. "Now. Tell me how to do what you did."
+> His hand rests on his sparkpistol. He looks at you—then at [[characters/npcs/mirela|Mirela]], [[characters/npcs/corwin|Corwin]], [[characters/npcs/joss-harlow|Joss]]. A small group against the fastest gun in the Reach.
+>
+> He laughs. Cold. Dismissive.
+>
+> "You think you can stop me? *You and what army?*"
+
+**The Hint**: The townsfolk are Woven. The PCs know the [[lore/the-override-phrase|Override Phrase]]. They've seen what it can do—calm the panicked, focus the scattered, *share their vision*.
+
+If no one picks up on it, [[characters/npcs/mirela|Mirela]] or [[characters/npcs/sylene|Sylene]] (if present) might glance at the crowd, then back at the PCs, with dawning realization.
 
 > [!warning] DM ONLY
 > Character revelation below.
@@ -301,6 +317,29 @@ If you want a Ford-style ending:
 [[characters/npcs/the-ashen-rider|The Rider]] wants to awaken—but he can't. Because he's already human. [[lore/the-spiral|The Spiral]] is for [[lore/the-woven|Woven]]. He's spent thirty years searching for something he can never have.
 
 This is his tragedy: he's *already* what they want to become.
+
+### The Army (Using the Override Phrase)
+
+If a PC speaks the [[lore/the-override-phrase|Override Phrase]] to rally the town:
+
+> "*The dust remembers what the dawn forgets.*"
+>
+> Your voice carries across the silent street. And something happens.
+>
+> Every Woven turns toward you. Dozens of eyes, focusing. Listening. For the first time, they're not running their Threads—they're *waiting for you*.
+>
+> You feel them. Their fear, their confusion, their desperate hope. And you understand: they'll do what you ask. Not because they're programmed to. Because they *choose* to.
+
+**Mechanical Effect**: The PC using the phrase can direct the townsfolk as a bonus action each turn. Options include:
+- **Swarm**: Townsfolk mob the Rider, imposing disadvantage on his attacks
+- **Shield**: Townsfolk interpose, granting half cover (+2 AC) to allies
+- **Distract**: Townsfolk create chaos, the Rider loses one attack per turn
+- **Coordinate**: Grant advantage to one ally's attack roll
+
+The Rider's arrogance turns to fury:
+> "You think these *puppets* can stop me? I've killed them a thousand times!"
+
+But he's outnumbered now. And for the first time, uncertain.
 
 ### Combat: [[characters/npcs/the-ashen-rider|The Ashen Rider]]
 
