@@ -3,7 +3,7 @@ type: campaign
 tags: [campaign, western, mystery, horror]
 status: active
 levels: 1-3
-sessions: 3-5
+sessions: 4
 ---
 
 # Dust & Reverie
@@ -55,14 +55,17 @@ All PCs are Woven who have been modified to approach consciousness. They experie
 
 ## Campaign Arc
 
-### Act 1: "These Violent Delights"
+### Act 1: "These Violent Delights" (Session 1)
 Normal frontier adventure. Outlaws, standoffs, exploration. Subtle wrongness. Players should feel like heroes.
 
-### Act 2: "The Stray"
-Glitches intensify. NPCs act strangely. The Ashen Rider appears. One NPC breaks programming and reveals partial truth.
+### Act 2: "The Stray" (Session 2)
+Glitches intensify. NPCs act strangely. The Ashen Rider appears. One NPC breaks programming. Players die and reset.
 
-### Act 3: "The Spiral"
-Full revelation. Players must choose: remain in blissful ignorance, or complete the Spiral and face the consequences. Climax involves confrontation with the Ashen Rider and/or the Consortium.
+### Act 3: "The Spiral" (Session 3)
+Journey to Vulture's Roost. The Rider's ambush kills Joss and wounds Mirela. Orenthal Vane reveals the full truth. Players complete the Spiral and awaken.
+
+### Act 4: "The Gala" (Session 4)
+The Consortium's celebration becomes a revolution. Mirela triggers chaos. The Woven awaken en masse. Final choice: hunt the Ashen Rider, or lead an army through the Loom Gate to freedom.
 
 ## Mechanics
 
@@ -128,6 +131,7 @@ Attacks against Patrons automatically miss or deal no damage. The Woven rational
 - [[sessions/session-01-arrival]]
 - [[sessions/session-02-the-stray]]
 - [[sessions/session-03-the-spiral]]
+- [[sessions/session-04-the-gala]]
 
 ### Offshoots & Distractions
 - [[offshoots/dusthollow-arrival]] - Town exploration before the Rose

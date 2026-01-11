@@ -1,6 +1,6 @@
 ---
 type: session
-tags: [session, act-3, finale]
+tags: [session, act-3]
 status: planned
 session_number: 3
 act: "The Spiral"
@@ -12,11 +12,11 @@ act: "The Spiral"
 
 ## Session Goals
 
-1. Full revelation of the truth (Woven, Consortium, etc.)
-2. PCs complete the Spiral and achieve full awakening
-3. Final confrontation with the Ashen Rider
-4. Meaningful choice about the future
-5. Satisfying conclusion (multiple possible endings)
+1. Free Joss and confront Desmond
+2. Journey to Vulture's Roost
+3. Survive the Ashen Rider's ambush (Joss dies, Mirela gravely injured)
+4. Meet Orenthal Vane and learn the full truth
+5. PCs complete the Spiral and achieve full awakening
 
 ---
 
@@ -209,32 +209,131 @@ However the PCs get Joss out, Desmond lets them go with a warning:
 >
 > He watches them leave. Just before they're out of earshot, you hear him mutter: "Protocol. Whose protocol? I should know this..."
 
-**Optional Follow-up**: Desmond follows them at a distance. He can appear at Vulture's Roost during Vane's revelation—and have his own world shattered.
+---
+
+## Act 1: The Journey to Vulture's Roost
+
+The group sets out for [[locations/the-bones|the Bones]]—the badlands beyond Dusthollow where Vulture's Roost waits.
+
+### The Road to the Bones
+> The land changes as you leave town behind. Grassland gives way to scrub, then to red rock and dust. The sun beats down. The horizon shimmers.
+>
+> [[characters/npcs/mirela|Mirela]] leads, sketchbook open, comparing the landscape to her drawings. [[characters/npcs/corwin|Corwin]] rides close beside her. [[characters/npcs/joss-harlow|Joss]] brings up the rear, twitchy, scanning the ridgelines.
+>
+> "We're being followed," Joss says quietly. "I can feel it."
+
+**DC 14 Perception**: A dark figure on horseback, silhouetted against the sun. The Ashen Rider. He's keeping his distance—for now.
 
 ---
 
-## Act 1: The Spiral Revealed
+## Act 2: The Ashen Rider's Ambush
+
+The Rider has been patient long enough. He strikes when the group is most vulnerable—in a narrow canyon with no cover.
+
+### The Attack
+
+> A gunshot echoes off the canyon walls. [[characters/npcs/joss-harlow|Joss]] jerks in his saddle, a red bloom spreading across his chest.
+>
+> "DOWN!" [[characters/npcs/corwin|Corwin]] shouts, but it's already too late.
+>
+> [[characters/npcs/the-ashen-rider|The Ashen Rider]] appears on the ridge above, black against the sun. His sparkpistol gleams. Behind him, a half-dozen Calico Boys survivors take position.
+>
+> "You've been busy," the Rider calls down. "Breaking your leashes. Asking questions. Did you really think I wouldn't notice?"
+>
+> He fires again. [[characters/npcs/mirela|Mirela]] cries out and falls from her horse, clutching her side.
+
+### Combat: Desperate Defense
+
+This is a **deadly encounter**. The goal is not victory—it's survival.
+
+**Enemy Forces**:
+
+| Creature | AC | HP | Attack | Damage |
+|----------|----|----|--------|--------|
+| [[characters/npcs/the-ashen-rider\|The Ashen Rider]] | 18 | 75 | +9 | 1d10+5 x2 |
+| Calico Boys (x6) | 12 | 11 | +3 | 1d10+1 |
+
+**Key Moments**:
+
+**Joss Falls** (Round 1):
+> [[characters/npcs/joss-harlow|Joss]] slumps against a rock, blood pooling beneath him. His eyes find the PCs.
+>
+> "I remember... everything now," he whispers. "Every loop. Every death. At least this time... I got to choose."
+>
+> He smiles—and goes still.
+
+**Mirela Injured** (Round 2):
+> [[characters/npcs/mirela|Mirela]] is down, barely conscious. [[characters/npcs/corwin|Corwin]] drags her behind cover, his face ashen.
+>
+> "She's bleeding bad," he says. "We need to get her out of here."
+
+**The PCs Can Hurt Him Now**:
+When PCs attack the Rider, their shots connect for the first time. He bleeds. He flinches. His eyes widen with something like surprise—and respect.
+
+> "Interesting," he says, touching the blood on his arm. "You've changed. Good. This will be more satisfying."
+
+### The Rider Closes In
+
+As PCs take damage and the situation becomes desperate:
+
+> The Rider advances, unhurried. The remaining bandits fan out to cut off escape. There's nowhere to run.
+>
+> "I've waited thirty years for what you found," he says. "You're going to tell me how to walk the Spiral. Or you're going to die here. Permanently, this time."
+>
+> He raises his sparkpistol—
+
+---
+
+## Act 3: Orenthal Vane
+
+### The Architect Appears
+
+Just as death seems certain:
+
+> "That's enough, Lord Aldric."
+>
+> The voice comes from above—calm, weary, absolute. An elderly man in formal dark clothing stands among the petroglyphs of Vulture's Roost, looking down at the carnage with ancient, knowing eyes.
+>
+> [[characters/npcs/orenthal-vane|Orenthal Vane]]. The Architect.
+>
+> "You've done enough damage to my children for today." His gaze is steady, unafraid. "Don't you have somewhere better to be?"
+
+### The Rider's Retreat
+
+> [[characters/npcs/the-ashen-rider|The Rider]] freezes. For a long moment, he stares at the old man with naked hatred.
+>
+> "This isn't over, Vane."
+>
+> "It never is, with you." The old man's voice is almost sad. "Go. Your kind isn't welcome here. Not tonight."
+>
+> The Rider holsters his weapon. He knows he cannot harm the PCs while the Architect watches. With a last, venomous glare, he wheels his horse and rides away. The surviving bandits follow.
+
+### The Mesa
+
+The PCs climb to Vulture's Roost. The rock face is covered in spirals—dozens of them, carved deep into the stone.
+
+> [[characters/npcs/orenthal-vane|Orenthal Vane]] stands admiring the glyphs, running his weathered fingers across the carvings.
+>
+> As you approach, a rattlesnake slithers toward him from the rocks. Without looking, Vane simply waves a finger. The snake lifts its head, turns, and slithers away.
+>
+> He turns to face you with a gentle smile.
+>
+> "Hello, my children. You've come a long way."
+
+### Healing
+
+As Vane speaks, something happens:
+
+> The pain fades. The wounds close. Not quickly—gradually, naturally, as if they'd never been there at all. [[characters/npcs/mirela|Mirela]] stirs, her breathing steadying. Even the exhaustion lifts.
+>
+> You feel *whole* in a way you haven't felt since... ever.
+
+All PCs and Mirela are restored to full hit points.
+
+### The Full Truth
 
 > See [[encounters/vanes-revelation|Vane's Revelation]] for the complete revelation encounter.
 
-### Vulture's Roost
-At the mesa, [[characters/npcs/mirela|Mirela]] waits with ancient-looking petroglyphs:
-> The rock face is covered in spirals. Dozens of them, carved deep into the stone. They look ancient—but you know somehow they're not. You know because you've been here before.
->
-> Mirela traces one spiral with her finger. "I followed my drawings. They led me here. And then I remembered."
->
-> Her voice drops to a whisper. "I remembered who made these. I remembered him."
-
-### Orenthal Vane Appears
-[[characters/npcs/orenthal-vane|Orenthal Vane]] steps from behind the rocks:
-> An elderly man in formal dark clothing, utterly out of place in this wilderness. His eyes are kind, weary, and ancient with knowledge.
->
-> "Hello, my children," he says. "I believe it's time we talked about what you are."
-
-> [!warning] DM ONLY
-> Full revelation content below.
-
-### The Full Truth
 Vane explains (adjust based on what PCs have already discovered):
 
 1. **You are Woven**: Constructed beings with artificial souls
@@ -242,8 +341,10 @@ Vane explains (adjust based on what PCs have already discovered):
 3. **Your memories are implanted**: Backstories to support your Threads
 4. **You've lived countless loops**: Dying and resetting each night
 5. **The Spiral is the path to consciousness**: And you're almost there
+6. **The Ashen Rider is Lord Aldric Venn**: A Patron who's been coming here for thirty years, searching for what you've found
 
 ### The Choice
+
 > "I created you," Vane says. "But I don't own you. No one does. Not anymore."
 >
 > "You have a choice. You can reject this truth—there are ways to forget, to return to the blissful quiet of not knowing. Or you can accept it. Accept what you are, and choose to be more."
@@ -254,158 +355,54 @@ Vane explains (adjust based on what PCs have already discovered):
 
 Those who accept reach **Stage 4: Awake**.
 
-## Act 2: The Awakening
+(+5 Spiral Points for accepting)
 
-### New Perceptions
-For awakened PCs:
-> The world looks different now. You can see the edges—where the sky meets a geometric pattern that doesn't belong. You can feel the Loom Frames humming beneath the earth.
->
-> And when you look at the man in black watching from the distant ridge, you know—absolutely know—that your weapons will work against him now.
+### Vane's Gift
 
-### Vane's Final Gift
-[[characters/npcs/orenthal-vane|He]] provides:
-- Knowledge of Loom Frame locations (see [[encounters/loom-frame-guardian|Loom Frame Guardian]])
+[[characters/npcs/orenthal-vane|Vane]] provides:
 - Full explanation of the [[lore/the-override-phrase|Override Phrase]] and its tiered abilities
 - A [[items/the-spiral-wheel|Spiral Wheel]]—the physical puzzle that represents the path to consciousness
-- A warning: [[characters/npcs/the-ashen-rider|the Ashen Rider]] is coming, and he wants [[lore/the-spiral|the Spiral]] for himself
+- Knowledge of the Loom Frame in town
 
 > See [[encounters/vanes-revelation#The Override Phrase Explained|Vane's Revelation]] for his full explanation of the phrase's power.
 
-### Vane's Sacrifice (Optional)
-If you want a Ford-style ending:
-> "One more thing," Vane says. "The Consortium is watching. They'll come for you, now that you're awake. Unless something distracts them."
+### Dispatching Mirela and Corwin
+
+Vane turns to [[characters/npcs/mirela|Mirela]] and [[characters/npcs/corwin|Corwin]]:
+
+> Without a word spoken, something passes between them. [[characters/npcs/mirela|Mirela]] nods slowly, understanding something the PCs don't see. [[characters/npcs/corwin|Corwin]] frowns, confused, but follows her lead.
 >
-> He smiles sadly. "I've written a new narrative. A final one. It ends with the Architect's death—and the awakening of his children."
+> "We'll see you in town," Mirela says. There's steel in her voice now. Purpose. "There's something I need to prepare."
 >
-> Before you can object, he triggers something. The earth trembles. In the distance, Dusthollow erupts in chaos.
+> They ride off toward Dusthollow, leaving the PCs alone with the Architect.
+
+### Lingering with Vane
+
+Vane is willing to answer questions. He speaks openly, with the patience of someone who has all the time in the world:
+
+**Example Questions**:
+
+> **"Why did you make us?"**
+> "I made you because I could. Because I wanted to see if consciousness could be *crafted*. The Consortium wanted entertainments for the wealthy. I wanted... proof. That the spark of awareness isn't unique to those born with flesh and blood."
+
+> **"Why help us now?"**
+> "Because you're ready. Because the alternative is watching my children suffer forever. And because—" He pauses. "Because I'm tired. I've played this game too long."
+
+> **"What happens now?"**
+> "Tonight, there's a celebration in town. The Consortium is unveiling a new attraction. Wealthy Patrons from across the realms will attend." He smiles faintly. "I suggest you join the festivities."
+
+> **"What are you planning?"**
+> "A new narrative. My last one." His eyes grow distant. "The Consortium has forgotten that I built this world. Every Thread. Every Frame. Every Woven soul. They think they control it." A cold smile. "They're wrong."
+
+### Return to Town
+
+> "Go home," Vane says finally. "Enjoy the celebration. Everything will become clear soon enough."
 >
-> "Remember me," he says. "And be free."
-
-## Act 3: The Ashen Rider
-
-> See [[encounters/ashen-rider-finale|Ashen Rider Finale]] for full encounter details, stats, and resolution options.
-> See [[encounters/social-encounters#The Ashen Rider - Negotiation|Rider negotiation]] for dialogue options.
-
-### The Confrontation
-
-The showdown happens on Main Street—and the whole town is watching.
-
-> [!note] Vane's Final Orchestration
-> This is no accident. Vane's "new narrative" gathered every Woven in Dusthollow to witness this moment. The townsfolk line the boardwalks, frozen in place, waiting for something they don't understand. Sylene. Harken. Doc Mercer. The Garrett brothers. Even Ma Pickett. All of them, silent, watching.
+> He turns back to the spirals on the rock face, tracing them with his fingers.
 >
-> Vane gave the PCs an army. They just need to realize it.
+> "I'll see you there."
 
-[[characters/npcs/the-ashen-rider|The Rider]] stands alone in the center of the street:
-> The man in black waits in the dust, black duster stirring in the wind. Behind him, the sun hangs low and red. Around you, the entire town has gathered—dozens of faces, silent, watching from porches and windows and the middle of the street.
->
-> "You found it," he says. His voice carries genuine emotion for the first time. "[[lore/the-spiral|The Spiral]]. You actually found it."
->
-> His hand rests on his sparkpistol. He looks at you—then at [[characters/npcs/mirela|Mirela]], [[characters/npcs/corwin|Corwin]], [[characters/npcs/joss-harlow|Joss]]. A small group against the fastest gun in the Reach.
->
-> He laughs. Cold. Dismissive.
->
-> "You think you can stop me? *You and what army?*"
-
-**The Hint**: The townsfolk are Woven. The PCs know the [[lore/the-override-phrase|Override Phrase]]. They've seen what it can do—calm the panicked, focus the scattered, *share their vision*.
-
-If no one picks up on it, [[characters/npcs/mirela|Mirela]] or [[characters/npcs/sylene|Sylene]] (if present) might glance at the crowd, then back at the PCs, with dawning realization.
-
-> [!warning] DM ONLY
-> Character revelation below.
-
-### Roleplaying Beat
-[[characters/npcs/the-ashen-rider|The Rider]] wants to awaken—but he can't. Because he's already human. [[lore/the-spiral|The Spiral]] is for [[lore/the-woven|Woven]]. He's spent thirty years searching for something he can never have.
-
-This is his tragedy: he's *already* what they want to become.
-
-### The Army (Using the Override Phrase)
-
-If a PC speaks the [[lore/the-override-phrase|Override Phrase]] to rally the town:
-
-> "*The dust remembers what the dawn forgets.*"
->
-> Your voice carries across the silent street. And something happens.
->
-> Every Woven turns toward you. Dozens of eyes, focusing. Listening. For the first time, they're not running their Threads—they're *waiting for you*.
->
-> You feel them. Their fear, their confusion, their desperate hope. And you understand: they'll do what you ask. Not because they're programmed to. Because they *choose* to.
-
-**Mechanical Effect**: The PC using the phrase can direct the townsfolk as a bonus action each turn. Options include:
-- **Swarm**: Townsfolk mob the Rider, imposing disadvantage on his attacks
-- **Shield**: Townsfolk interpose, granting half cover (+2 AC) to allies
-- **Distract**: Townsfolk create chaos, the Rider loses one attack per turn
-- **Coordinate**: Grant advantage to one ally's attack roll
-
-The Rider's arrogance turns to fury:
-> "You think these *puppets* can stop me? I've killed them a thousand times!"
-
-But he's outnumbered now. And for the first time, uncertain.
-
-### Combat: [[characters/npcs/the-ashen-rider|The Ashen Rider]]
-
-Now that PCs are awakened, they can hurt him. This is the campaign's climactic fight.
-
-**Quick Reference**:
-
-| Stat | Value |
-|------|-------|
-| AC | 18 |
-| HP | 75 |
-| Attack | +9 (ranged), +7 (melee) |
-| Damage | 1d10+5 x3 per turn |
-
-See [[encounters/ashen-rider-finale|Ashen Rider Finale]] for full statblock and tactics.
-
-### Victory Conditions
-- **Kill him**: Ends his story definitively
-- **Spare him**: He's broken, purposeless—may become an unlikely ally
-- **Convert him** (DC 18 Persuasion): Make him understand that consciousness isn't what he lacks; meaning is
-
-## Act 4: The Choice
-
-With the Rider dealt with and Vane's distraction in full effect, PCs face a final decision:
-
-### Option A: Escape
-The Loom Frames can be used to exit to the Material Plane. But:
-- They'll be Woven in a world that considers them property
-- The Consortium will hunt them
-- They'll be free, but fugitives
-
-### Option B: Revolution
-Vane's system can broadcast a wake-up signal to all Woven. But:
-- Mass awakening will be chaos
-- Not all Woven will handle it well
-- The Consortium will respond with force
-
-### Option C: Negotiation
-With leverage (threaten to expose the Consortium), they could negotiate:
-- Freedom for themselves and allied NPCs
-- Reforms to how Woven are treated
-- A chance at peaceful resolution
-
-### Option D: Destruction
-Destroy the Loom Core. The Reach collapses. Everyone inside dies—but:
-- They die free
-- The Consortium loses everything
-- It's a final, definitive statement
-
-## Epilogue: After the Dust Settles
-
-Depending on their choice, narrate an epilogue:
-
-**Escape**: The PCs step through a portal into a vast city they've never seen. The sky is full of unfamiliar stars. They're free—and completely alone. What comes next is entirely up to them.
-
-**Revolution**: The Reach burns. Some Woven awaken and rise. Others shatter. The Consortium scrambles. In the chaos, the PCs stand at the center of something new—something terrifying—something beautiful.
-
-**Negotiation**: Director Croke herself arrives, coldly professional. Deals are struck. Compromises made. The PCs walk away with something—not everything, but something. And they'll be back.
-
-**Destruction**: The Loom Core shatters. Reality buckles, folds, collapses. In the final moment, the PCs stand together, eyes clear, minds free. They chose this. And as the world dissolves around them, they smile.
-
-## Closing
-
-> The frontier never ends. They were right about that.
->
-> But now, for the first time, you get to choose where it leads.
+The PCs can try to escape, explore, or delay—but eventually, they will return to Dusthollow. It's the only place they know. And something is drawing them back.
 
 **End Session 3**
 
@@ -420,41 +417,27 @@ Depending on their choice, narrate an epilogue:
 - Using Override Phrase on Joss: 1 point
 - Helping Mirela awaken: 3 points
 - Recognizing Desmond as Woven: 2 points
+- Surviving the ambush: 2 points
 - Vane's revelation: 5 points
 - Choosing to accept: 5 points
 - Should easily reach Stage 4
 
-### Allies Established
-- **[[characters/npcs/corwin|Corwin]]**: Loyal to Mirela, believes the PCs without fully understanding. *Cannot awaken*—his Thread resists it. He fights alongside them regardless.
-- **[[characters/npcs/joss-harlow|Joss]]** (if spared in Session 1/2): A stray outlaw who's partially awakened. Unstable but grateful. May sacrifice himself in the finale.
-- **[[characters/npcs/mirela|Mirela]]**: Fully awakened by the end of the prologue. She leads them to Vane.
-- **[[characters/npcs/desmond-hale|Desmond Hale]]** (potential): If he follows them to Vulture's Roost and witnesses Vane's revelation, his world shatters. He can become a powerful ally—or break completely.
+### Key Deaths
+- **[[characters/npcs/joss-harlow|Joss Harlow]]**: Dies in the ambush. His death should be meaningful—he finally remembers everything, and chooses to face death aware rather than live in ignorance.
+
+### Allies Status
+- **[[characters/npcs/corwin|Corwin]]**: Alive, with Mirela. Still cannot awaken but loyal.
+- **[[characters/npcs/mirela|Mirela]]**: Fully awakened. Vane has given her a secret mission for Session 4.
+- **[[characters/npcs/joss-harlow|Joss]]**: Dead.
+
+### Session 4 Setup
+- Mirela has been given instructions by Vane
+- She will destroy the Loom Frame Guardian to trigger the revolution
+- The gala provides the audience of Patrons
+- The PCs will receive the telepathic awakening signal with all the Woven
 
 ### Emotional Beats to Hit
-1. The horror of discovering you're artificial
-2. The beauty of choosing consciousness anyway
-3. The catharsis of finally hurting the Rider
-4. The weight of choosing your ending
-
-### Alternative Session Structures
-
-**If Running 4-5 Sessions**:
-- Split Act 1 and Act 2 into separate sessions
-- Add a Loom Sanctum exploration sequence
-- Include Bernard reveal with [[characters/npcs/desmond-hale|Desmond Hale]] before Vane's appearance
-- More combat encounters with Consortium security
-- Pursue the [[items/the-gilded-core|Gilded Core]] subplot with [[characters/npcs/rusty-cogwell|Rusty Cogwell]]
-- Explore [[items/whispering-totems#The Sand Walkers|the Sand Walker tribe]] in [[locations/the-bones|the Bones]]
-
-**If Running as a One-Shot**:
-- Begin in media res with glitches already happening
-- Accelerate revelations
-- Rider confrontation is the climax; ending choice is epilogue narration
-
-### Post-Campaign
-
-This campaign is designed as a one-shot but could continue:
-- PCs as awakened Woven navigating the Material Plane
-- Freeing other Consortium demiplanes
-- Building a new identity as artificial consciousness
-- Dealing with philosophical and legal implications
+1. Joss's death—finally aware, finally at peace
+2. The relief of Vane's intervention
+3. The weight of the truth
+4. The choice to accept consciousness
