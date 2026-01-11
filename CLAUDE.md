@@ -20,7 +20,13 @@ wiki_dnd/
         ├── items/              # Magic items, artifacts
         ├── lore/               # World history, religions, cultures
         ├── quests/             # Active and completed quests
-        └── encounters/         # Combat encounters, random tables
+        ├── encounters/         # Combat encounters, random tables
+        ├── offshoots/          # Side content, optional exploration
+        └── assets/             # Images and media
+            ├── maps/           # Location maps, dungeon layouts
+            ├── npcs/           # NPC portraits and character art
+            ├── items/          # Item illustrations
+            └── handouts/       # Player handouts (letters, documents)
 ```
 
 ## Obsidian Conventions
@@ -61,6 +67,23 @@ speed: 30 ft.
 stats: [16, 14, 14, 10, 12, 8]
 ```
 ````
+
+### Images and Assets
+Store images in the `assets/` folder, organized by type:
+- `assets/maps/` - Location maps, dungeon layouts, town layouts
+- `assets/npcs/` - NPC portraits and character art
+- `assets/items/` - Item illustrations
+- `assets/handouts/` - Player handouts (letters, wanted posters, documents)
+
+**Embedding images**:
+```markdown
+![[assets/maps/town-map.png]]
+```
+
+**Naming convention**: Use lowercase with hyphens, descriptive names:
+- `dusthollow-main-street.png`
+- `mirela-portrait.jpg`
+- `wanted-poster-pike.png`
 
 ## Content Guidelines
 

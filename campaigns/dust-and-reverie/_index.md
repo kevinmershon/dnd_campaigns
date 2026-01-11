@@ -165,3 +165,18 @@ Attacks against Patrons automatically miss or deal no damage. The Woven rational
 - [[items/whispering-totems]] - Sand Walker carvings
 - [[items/the-gilded-core]] - Consortium technology
 - [[items/mirelas-sketchbook]] - Evidence of her awakening
+
+### Assets
+Images, maps, and other media are stored in the `assets/` folder:
+
+| Folder | Contents |
+|--------|----------|
+| `assets/maps/` | Location maps, dungeon layouts, town layouts |
+| `assets/npcs/` | NPC portraits and character art |
+| `assets/items/` | Item illustrations |
+| `assets/handouts/` | Player handouts (letters, documents, posters) |
+
+**Current Maps**:
+- [[assets/maps/dusthollow-main-street.png]] - Main street layout
+
+**Embedding images**: Use `![[assets/folder/filename.png]]` in any markdown file.

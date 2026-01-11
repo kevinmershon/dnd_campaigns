@@ -13,6 +13,12 @@ Use this when players step off the stagecoach and explore before heading to the 
 
 ---
 
+## Main Street Map
+
+![[assets/maps/dusthollow-main-street.png]]
+
+---
+
 ## The Walk Into Town
 
 ### Read-Aloud: Main Street

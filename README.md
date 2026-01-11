@@ -50,7 +50,13 @@ wiki_dnd/
 │       ├── items/       # Loot and artifacts
 │       ├── lore/        # World background
 │       ├── quests/      # Adventure hooks
-│       └── encounters/  # Combat setups
+│       ├── encounters/  # Combat setups
+│       ├── offshoots/   # Side content, optional exploration
+│       └── assets/      # Images and media
+│           ├── maps/    # Location maps, dungeon layouts
+│           ├── npcs/    # NPC portraits and art
+│           ├── items/   # Item illustrations
+│           └── handouts/# Player handouts
 ├── templates/           # Reusable note templates
 ├── CLAUDE.md            # AI assistant context
 └── README.md            # This file
@@ -72,6 +78,24 @@ Press `Ctrl/Cmd + G` to see your campaign as a connected graph. Orphan nodes (un
 
 ### Search
 `Ctrl/Cmd + Shift + F` searches all files. Great for finding every mention of an NPC.
+
+### Images and Maps
+Store images in the `assets/` folder within each campaign:
+
+```
+assets/
+├── maps/      # Town layouts, dungeon maps, region maps
+├── npcs/      # Character portraits and art
+├── items/     # Item illustrations
+└── handouts/  # Letters, wanted posters, documents for players
+```
+
+Embed images using Obsidian's syntax:
+```markdown
+![[assets/maps/dusthollow-main-street.png]]
+```
+
+Use lowercase filenames with hyphens: `tavern-floor-plan.png`
 
 ## Syncing Options
 
