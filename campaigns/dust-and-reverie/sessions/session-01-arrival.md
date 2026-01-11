@@ -43,8 +43,28 @@ Allow each player to describe their character and provide a reason for coming to
 
 ## Act 1: Welcome to Town
 
+### Main Street Exploration
+
+If players explore before heading to the Dusty Rose, they can visit:
+
+| Location | NPC | Quick Take |
+|----------|-----|------------|
+| [[offshoots/dusthollow-arrival#Harken's General Store\|Harken's General Store]] | [[characters/npcs/dusthollow-townsfolk#Harken\|Harken]] | Friendly, shallow, redirects to the Rose |
+| [[offshoots/dusthollow-arrival#The Sheriff's Office\|Sheriff's Office]] | Empty | Abandoned; subtle clues about the previous sheriff |
+| [[offshoots/dusthollow-arrival#Doc Mercer's Practice\|Doc Mercer's Practice]] | [[characters/npcs/dusthollow-townsfolk#Doc Mercer\|Doc Mercer]] | Busy, brusque; hints about impossible healings |
+| [[offshoots/dusthollow-arrival#The Dusthollow Chapel\|The Chapel]] | Empty | Father Aldous is at the Rose; spiral imagery |
+| [[offshoots/dusthollow-arrival#Brennan's Livery\|Brennan's Livery]] | [[characters/npcs/dusthollow-townsfolk#Old Brennan\|Old Brennan]] | Half-deaf; mentions "the one in black" |
+| [[offshoots/dusthollow-arrival#The Boarding House Ma Pickett's\|Ma Pickett's Boarding House]] | [[characters/npcs/dusthollow-townsfolk#Ma Pickett\|Ma Pickett]] | Unwelcoming; hates the Rose |
+| [[offshoots/dusthollow-arrival#The Blacksmith Cade's Forge\|Cade's Forge]] | [[characters/npcs/dusthollow-townsfolk#Cade\|Cade]] | Silent, working; nothing to learn |
+
+> See [[offshoots/dusthollow-arrival|Dusthollow Arrival]] for full descriptions and dialogue.
+
+Every NPC redirects to the Rose eventually—it's the town's natural gravity.
+
+---
+
 ### The Dusty Rose
-Players likely head to the saloon. Describe:
+Players likely head to the saloon (or end up there). Describe:
 - Piano playing (same tune as every day, forever)
 - [[characters/npcs/sylene|Sylene]] holding court, greeting newcomers
 - Card games, drinking, ambient frontier atmosphere
@@ -92,11 +112,27 @@ As players settle in:
 >
 > For just a moment, she glances at you. Her brow furrows slightly, as if trying to place a half-forgotten face. A worn leather satchel hangs at her side—inside, a [[items/mirelas-sketchbook|sketchbook]] she guards jealously.
 
-If PCs approach, she's friendly but distracted. She mentions trouble with rustlers at [[locations/dusthollow-details#Mirela's Ranch|the ranch]].
+**If PCs approach her:**
+
+> She turns, surprised but not unfriendly. "Sorry, I was somewhere else. Do I know you?" She tilts her head. "You seem... familiar somehow."
+
+**If PCs introduce themselves:**
+> "Welcome to Dusthollow. I'm Mirela. My father and I have a ranch outside town." She glances toward the door. "I'm just picking up supplies. It's been... a difficult week."
+
+**If PCs ask what's wrong / about the ranch:**
+> She hesitates. "Rustlers have been hitting the smaller ranches. Three calves gone last week, and—"
+
+*At this moment, the commotion outside interrupts her.* (See Act 2: The Hook)
+
+> Her head snaps toward the window. "What now?"
+
+**Important**: The Calico Boys' arrival interrupts before Mirela can give details. This prevents a tangent quest and funnels toward the showdown. If players specifically want to help with rustlers later, see [[quests/kobold-hunting|Kobold Hunting]] (the "rustlers" may actually be Sand Walkers).
 
 ### Corwin Arrives
-[[characters/npcs/corwin|Corwin]] follows shortly:
+[[characters/npcs/corwin|Corwin]] follows shortly after Mirela:
 > A lean man in a black duster enters, scanning the room with practiced ease. His hand rests casually near his holstered sparkpistol. He spots the young woman and relaxes visibly, moving to stand near her.
+
+If the commotion hasn't started yet, Corwin's arrival triggers it within a minute.
 
 ## Act 2: The Hook
 

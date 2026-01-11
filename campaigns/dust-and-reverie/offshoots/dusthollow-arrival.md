@@ -54,8 +54,41 @@ Use this when players step off the stagecoach and explore before heading to the 
 - "We got supplies, ammunition, sundries. Fair prices—I don't gouge."
 - *If asked about the town*: "Dusthollow's a fine place. Quiet. Folks mind their own business. The Rose has rooms if you're staying."
 
-**What's Available**:
-Standard adventuring gear, ammunition, basic supplies. No weapons beyond hunting knives.
+**Inventory**:
+
+| Item | Price | Notes |
+|------|-------|-------|
+| **Rope (50 ft, hemp)** | 1 gp | Coiled on barrels by the door |
+| **Rope (50 ft, silk)** | 10 gp | "For the discerning customer" |
+| **Flares (3)** | 5 sp | Red signal flares, burn 1 minute each |
+| **Tent stakes (12)** | 2 sp | Iron, sturdy |
+| **Bedroll** | 1 gp | Wool-lined |
+| **Tent (2-person)** | 2 gp | Canvas, weathered but serviceable |
+| **Lantern, hooded** | 5 gp | Brass, with shutters |
+| **Oil (flask)** | 1 sp | Burns 6 hours |
+| **Candles (10)** | 1 sp | Tallow |
+| **Tinderbox** | 5 sp | Flint and steel |
+| **Waterskin** | 2 sp | Leather |
+| **Rations (1 day)** | 5 sp | Jerky, hardtack, dried fruit |
+| **Feed bag (horse, 1 day)** | 5 cp | Oats and grain |
+| **Hunting knife** | 2 gp | Only blade Harken sells |
+| **Shovel** | 2 gp | For graves or gold |
+| **Pickaxe** | 2 gp | "Popular with the miners" |
+| **Crowbar** | 2 gp | Iron |
+| **Chain (10 ft)** | 5 gp | Heavy iron links |
+| **Manacles** | 2 gp | "Sheriff used to buy these" |
+| **Mirror, small steel** | 5 gp | Pocket-sized |
+| **Chalk (10 pieces)** | 1 sp | White |
+| **Pitons (10)** | 5 sp | Iron spikes |
+| **Grappling hook** | 2 gp | Three-pronged |
+| **Ammunition (10 rounds)** | 1 gp | Spark cartridges, in a glass case |
+| **Whiskey (bottle)** | 5 sp | "Not as good as the Rose, but cheaper" |
+| **Bandages (healer's kit)** | 5 gp | 10 uses |
+| **Antitoxin (vial)** | 50 gp | "Doc Mercer recommended I stock these" |
+| **Caltrops (bag of 20)** | 1 gp | Iron |
+| **Ball bearings (bag of 1000)** | 1 gp | "Don't ask what folks use 'em for" |
+
+**No Weapons**: Harken doesn't sell sparkarms or blades beyond hunting knives. "That's not my trade. You want iron that kills, talk to someone else."
 
 **Why It's Less Interesting**: Harken is friendly but shallow. His conversation loops quickly. There's nothing to discover here—it's just a store.
 
