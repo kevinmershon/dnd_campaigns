@@ -38,9 +38,10 @@ Players create normal frontier characters. Don't reveal the Woven truth until th
 **Suggested Build**:
 ```
 Fighter 1
-Stats: Str 10, Dex 17, Con 14, Int 10, Wis 14, Cha 10
+Stats: Str 8, Dex 15+2, Con 14, Int 10, Wis 14, Cha 8
 Fighting Style: Archery (+2 ranged attacks)
 Equipment: Sparkcarbine, sparkpistol, leather armor
+Race: Human (variant) or any with +2 Dex
 ```
 
 **Awakening Manifestation**: You know gun maintenance you were never taught. Your hands reload automatically, muscle memory from a thousand loops.
@@ -62,9 +63,10 @@ Equipment: Sparkcarbine, sparkpistol, leather armor
 **Suggested Build**:
 ```
 Rogue 1
-Stats: Str 8, Dex 16, Con 12, Int 14, Wis 10, Cha 16
+Stats: Str 8, Dex 15+1, Con 10, Int 14, Wis 11, Cha 15+1
 Expertise: Deception, Insight
 Equipment: Leather armor, rapier, small sparkpistol
+Race: Human (variant) for +1 Dex, +1 Cha, plus a feat
 ```
 
 **Awakening Manifestation**: You know tells before people show them. Sometimes you know what someone will say before they say it—because you've heard it a hundred times.
@@ -86,10 +88,11 @@ Equipment: Leather armor, rapier, small sparkpistol
 **Suggested Build**:
 ```
 Ranger 1
-Stats: Str 14, Dex 14, Con 14, Int 10, Wis 16, Cha 8
+Stats: Str 12, Dex 14, Con 14, Int 8, Wis 15+2, Cha 8
 Favored Enemy: Humanoids
 Natural Explorer: Grassland/Desert
 Equipment: Leather armor, longbow, shortsword
+Race: Wood Elf or any with +2 Wis
 ```
 
 **Awakening Manifestation**: The holes in your memory are *too* clean. You remember everything except where you came from. That should be impossible.
@@ -111,8 +114,9 @@ Equipment: Leather armor, longbow, shortsword
 **Suggested Build**:
 ```
 Cleric 1 (Life or Light Domain)
-Stats: Str 14, Dex 10, Con 14, Int 10, Wis 16, Cha 12
+Stats: Str 14, Dex 10, Con 14, Int 8, Wis 15+2, Cha 10
 Equipment: Scale mail, shield, mace, holy symbol
+Race: Hill Dwarf or any with +2 Wis
 ```
 
 **Awakening Manifestation**: Your prayers feel rehearsed because they are. You've said these words a million times. But for the first time, you wonder if anyone's listening.
