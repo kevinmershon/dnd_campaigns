@@ -21,6 +21,7 @@ Use this document when players want to explore the Dusty Rose beyond the main pl
 A heavyset man with a walrus mustache and permanently tired eyes. He's been pouring drinks "as long as he can remember" (literally—he has no memories before the Reach).
 
 **Drink Menu**:
+
 | Drink | Price | Description |
 |-------|-------|-------------|
 | Whiskey | 5 cp | Burns going down. The house standard. |

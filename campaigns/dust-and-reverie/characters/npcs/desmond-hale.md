@@ -69,6 +69,17 @@ When Desmond learns the truth (which should be a major campaign moment), it shou
 | Mystery | Provides clues he doesn't know the significance of |
 | Emotional | Stable presence, struggles visibly as truth approaches |
 
+### Session 3: The Jailhouse
+
+Desmond appears in [[sessions/session-03-the-spiral#The Jailhouse (Forced Encounter)|Session 3]] as the deputy who arrested [[characters/npcs/joss-harlow|Joss]] during the night. He used the [[lore/the-override-phrase|Override Phrase]] to pacify the "stray" and brought him in for observation.
+
+This is a forced encounter—the PCs must interact with him to free Joss. It plants seeds for his eventual reveal:
+- He can't remember his wife's name
+- He doesn't know who gave him his "protocol"
+- He's been in Dusthollow longer than any Patron should be
+
+If the PCs push him with probing questions, his composure cracks. He may follow them to Vulture's Roost and witness Vane's revelation—shattering his world.
+
 ## Combat Statistics
 
 ```statblock

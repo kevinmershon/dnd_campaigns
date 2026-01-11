@@ -19,7 +19,7 @@ inspired_by: Teddy Flood
 | Class | Fighter 3 |
 | Alignment | Lawful Good |
 | Age | Appears 28 |
-| Status | Woven (minimal awakening potential) |
+| Status | Woven (cannot awaken—Thread designed to resist) |
 
 ## Appearance
 
@@ -129,12 +129,18 @@ The tragedy deepens when Mirela awakens and realizes their love was programmed�
 
 ## Awakening Potential
 
-Corwin's code is simpler, more tightly controlled. He has minimal awakening potential, meaning:
-- He won't naturally progress on the Spiral
-- He could be "freed" by an external source (Vane's intervention, PC action)
-- Even freed, he might not have the complexity for full consciousness
+> [!warning] Corwin Cannot Awaken
+> Corwin is specifically designed to resist awakening. His Thread is the "loyal protector" archetype—simple, direct, stable. The Consortium uses characters like him to ground narratives and prevent cascade failures when other Woven break programming.
 
-This poses a moral question for awakened characters: Is Corwin real enough to save? What does "saving" him even mean?
+Corwin's code is simpler, more tightly controlled. He **cannot fully awaken**, meaning:
+- He won't progress on the Spiral regardless of experiences
+- Vane's modifications don't affect him—his Thread was already optimized for stability
+- He may believe the PCs without understanding what they're experiencing
+- He chooses to fight alongside them out of loyalty, not comprehension
+
+**In Session 3**: Corwin joins the group at the ranch and follows them through the finale. He fights for Mirela and the PCs, but when they discuss the Quieting's pressure or their awakening experiences, he simply... doesn't remember. He had a good night's sleep. That's all.
+
+This poses a moral question for awakened characters: Is Corwin's loyalty less real because he can't understand what they've become? What does it mean that he fights for them anyway?
 
 ## Story Function
 

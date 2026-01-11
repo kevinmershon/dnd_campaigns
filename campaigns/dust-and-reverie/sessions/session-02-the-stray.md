@@ -182,10 +182,37 @@ She seeks out the PCs, more lucid than before:
 > "I don't know what we are, but we're not... we're not normal. Something's been done to us. And the man in black—he knows."
 
 ### The Question
-End on the central question:
 > "So what are we?" Mirela asks. "And what do we do now?"
 
+[[characters/npcs/corwin|Corwin]] speaks up—he's been listening from the doorway:
+> "Whatever's happening, it's not safe to talk here. Too many ears. Too many... people acting strange."
+>
+> He looks at [[characters/npcs/mirela|Mirela]]. "The ranch. Your father's out at the cattle drive for two more days. We can talk there."
+
+If [[characters/npcs/joss-harlow|Joss]] survived and broke programming:
+> The outlaw shifts uncomfortably. "I ain't got nowhere else to go. The boys won't take me back—not after what I said. Not after remembering."
+>
+> He glances toward the door, paranoid. "I'll meet you there. Gotta grab my things from the boarding house first. Don't wait for me—I'll find my way."
+
+### Transition to the Ranch
+The group agrees to meet at [[locations/dusthollow-details#Mirela's Ranch|Mirela's ranch]] at dusk to avoid attention.
+
+> "Come separately," [[characters/npcs/corwin|Corwin]] says. "Casual-like. Don't give that man in black a reason to follow."
+
+[[characters/npcs/joss-harlow|Joss]] slips out first, promising to meet them within the hour.
+
+**He never arrives.**
+
 **End Session 2**
+
+> [!note] Session 3 Setup
+> Session 3 opens with the group gathered at the ranch—but Joss is missing. [[characters/npcs/desmond-hale|Desmond Hale]] intercepted him before he could leave town.
+>
+> This gives time for:
+> - [[characters/npcs/mirela|Mirela's]] full awakening (without Joss)
+> - Establishing [[characters/npcs/corwin|Corwin]] as an ally
+> - The forced jailhouse encounter with [[characters/npcs/desmond-hale|Desmond]]
+> - [[characters/npcs/orenthal-vane|Vane's]] intervention the following morning
 
 ## DM Notes
 
@@ -214,7 +241,15 @@ End on the central question:
 - **[[characters/npcs/rusty-cogwell|Rusty Cogwell]]**: Encounters the malfunctioning tinkerer who carries [[items/the-gilded-core|the Gilded Core]]—he's being hunted
 - **[[items/whispering-totems|Whispering Totems]]**: If PCs explore [[locations/the-bones|the Bones]], they may encounter [[items/whispering-totems#The Sand Walkers|Sand Walker kobolds]] and their strange carvings
 
+### Ally Setup for Session 3
+- **[[characters/npcs/corwin|Corwin]]**: Will follow Mirela to the ranch. He believes the PCs but cannot awaken—his Thread is designed to resist it. Useful as a loyal combatant who grounds the group.
+- **[[characters/npcs/joss-harlow|Joss]]** (if he survived and broke programming): Joins out of desperation. He's a stray who has nowhere else to go. Unstable but grateful.
+
+> [!note] Corwin's Limitation
+> Corwin is the "loyal protector" archetype—his Thread keeps him grounded, practical, and protective. He will never experience the Spiral or understand what the PCs are going through. But he'll fight for Mirela regardless.
+
 ### Next Session Setup
-- Finding the truth (Loom Frames, the Workshop, or Vane)
+- The ranch scene: processing the reset, awakening Mirela
+- Finding the truth (Vulture's Roost, Vane's revelation)
 - Confronting the Ashen Rider with full knowledge
 - The choice: accept or reject the truth
